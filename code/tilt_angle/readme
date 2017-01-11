@@ -1,0 +1,8 @@
+python script calculate_save_and_plot_TA.py will take input:
+	-file name of the file consisting of the x,y,z axis data of the infant accelerometry
+	-how much hours of data to process
+	-width for the filter
+	
+tilt angle is calculated and saved into file angle.csv
+
+each axis is plotted along with the tilt angle

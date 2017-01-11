@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Methods}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Timestamp alignment}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Accelerometer non-wear time}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Summary measure extraction}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Correcting for the gravity component}{8}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Accelerations contributed by the caretakers}{10}{subsection.2.5}
+\contentsline {section}{\numberline {3}Physical activity}{18}{section.3}
+\contentsline {subsection}{\numberline {3.1}Extraction}{18}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Analysis}{20}{subsection.3.2}
+\contentsline {section}{\numberline {4}Validation against sleeping and feeding diary}{22}{section.4}
+\contentsline {section}{\numberline {5}Closure}{29}{section.5}
+\contentsline {subsection}{\numberline {5.1}Discussion}{29}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Conclusions}{31}{subsection.5.2}

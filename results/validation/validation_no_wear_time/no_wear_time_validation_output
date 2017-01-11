@@ -1,0 +1,189 @@
+[jerneja_m@purple timed_wear]$ python ../../code/no_wear_validation.py 
+1 INFANT TORSO:
+1.infant torso no wear not detected and not noted in the diary
+1 INFANT ANKLE:
+1.infant ankle no wear not detected and not noted in the diary
+1 MOTHER:
+1. mother 1. no wear detected has no matches with the diary notation of no wear
+2 INFANT TORSO:
+2. infant torso 1. no wear detected matches with the diary notation of no wear at start for 52.55 minutes and at end for 72.55 minutes
+2. infant torso 2. no wear detected matches with the diary notation of no wear at start for 52.55 minutes and at end for 72.55 minutes
+2 INFANT ANKLE:
+2.infant ankle no wear not detected and not noted in the diary
+2 MOTHER:
+2. mother 1. no wear detected has no matches with the diary notation of no wear
+3 INFANT TORSO:
+3.infant torso no wear not detected and not noted in the diary
+3 INFANT ANKLE:
+3.infant ankle no wear not detected and not noted in the diary
+3 MOTHER:
+3. mother 1. no wear detected has no matches with the diary notation of no wear
+4 INFANT TORSO:
+4.infant torso no wear not detected for 1 no wear blocks
+4 INFANT ANKLE:
+4.infant ankle no wear not detected and not noted in the diary
+4 MOTHER:
+4.mother no wear not detected and not noted in the diary
+5 INFANT TORSO:
+5.infant torso no wear not detected and not noted in the diary
+5 INFANT ANKLE:
+5.infant ankle no wear not detected and not noted in the diary
+5 MOTHER:
+5.mother no wear not detected and not noted in the diary
+6 INFANT TORSO:
+6.infant torso no wear not detected and not noted in the diary
+6 INFANT ANKLE:
+6.infant ankle no wear not detected and not noted in the diary
+6 MOTHER:
+6.mother no wear not detected and not noted in the diary
+7 INFANT TORSO:
+7.infant torso no wear not detected and not noted in the diary
+7 INFANT ANKLE:
+7.infant ankle no wear not detected and not noted in the diary
+7 MOTHER:
+7.mother no wear not detected and not noted in the diary
+8 INFANT TORSO:
+8.infant torso no wear not detected and not noted in the diary
+8 INFANT ANKLE:
+8.infant ankle no wear not detected and not noted in the diary
+8 MOTHER:
+8. mother 1. no wear detected has no matches with the diary notation of no wear
+9 INFANT TORSO:
+9. infant torso 1. no wear detected matches with the diary notation of no wear at start for 70.6166666667 minutes and at end for 50.6166666667 minutes
+9 INFANT ANKLE:
+9.infant ankle no wear not detected and not noted in the diary
+9 MOTHER:
+9. mother 1. no wear detected matches with the diary notation of no wear at start for 30.6166666667 minutes and at end for 65.6166666667 minutes
+10 INFANT TORSO:
+10.infant torso no wear not detected for 1 no wear blocks
+10 INFANT ANKLE:
+10.infant ankle no wear not detected and not noted in the diary
+10 MOTHER:
+10.mother no wear not detected and not noted in the diary
+11 INFANT TORSO:
+11. infant torso 1. no wear detected has no matches with the diary notation of no wear
+11 INFANT ANKLE:
+11. infant ankle 1. no wear detected has no matches with the diary notation of no wear
+11 MOTHER:
+11.mother no wear not detected and not noted in the diary
+12 INFANT TORSO:
+12.infant torso no wear not detected and not noted in the diary
+12 INFANT ANKLE:
+12.infant ankle no wear not detected and not noted in the diary
+12 MOTHER:
+12.mother no wear not detected and not noted in the diary
+13 INFANT TORSO:
+13.infant torso no wear not detected and not noted in the diary
+13 INFANT ANKLE:
+13.infant ankle no wear not detected and not noted in the diary
+13 MOTHER:
+13. mother 1. no wear detected has no matches with the diary notation of no wear
+13. mother 2. no wear detected has no matches with the diary notation of no wear
+14 INFANT TORSO:
+14. infant torso 1. no wear detected has no matches with the diary notation of no wear
+14 INFANT ANKLE:
+14.infant ankle no wear not detected and not noted in the diary
+14 MOTHER:
+14. mother 1. no wear detected has no matches with the diary notation of no wear
+14. mother 2. no wear detected has no matches with the diary notation of no wear
+14. mother 3. no wear detected has no matches with the diary notation of no wear
+14. mother 4. no wear detected has no matches with the diary notation of no wear
+15 INFANT TORSO:
+15.infant torso no wear not detected and not noted in the diary
+15 INFANT ANKLE:
+15.infant ankle no wear not detected and not noted in the diary
+15 MOTHER:
+15.mother no wear not detected and not noted in the diary
+16 INFANT TORSO:
+16.infant torso no wear not detected for 1 no wear blocks
+16 INFANT ANKLE:
+16.infant ankle no wear not detected and not noted in the diary
+16 MOTHER:
+16.mother no wear not detected and not noted in the diary
+17 INFANT TORSO:
+17. infant torso 1. no wear detected has no matches with the diary notation of no wear
+17 INFANT ANKLE:
+17.infant ankle no wear not detected and not noted in the diary
+17 MOTHER:
+17. mother 1. no wear detected has no matches with the diary notation of no wear
+18 INFANT TORSO:
+18.infant torso no wear not detected and not noted in the diary
+18 INFANT ANKLE:
+18.infant ankle no wear not detected and not noted in the diary
+18 MOTHER:
+18.mother no wear not detected and not noted in the diary
+19 INFANT TORSO:
+19.infant torso no wear not detected and not noted in the diary
+19 INFANT ANKLE:
+19.infant ankle no wear not detected and not noted in the diary
+19 MOTHER:
+19. mother 1. no wear detected has no matches with the diary notation of no wear
+21 INFANT TORSO:
+21. infant torso 1. no wear detected matches with the diary notation of no wear at start for 0 minutes and at end for 91.1166666667 minutes
+21 INFANT ANKLE:
+21.infant ankle no wear not detected and not noted in the diary
+21 MOTHER:
+21. mother 1. no wear detected matches with the diary notation of no wear at start for 71.1166666667 minutes and at end for 201.6025 minutes
+22 INFANT TORSO:
+22. infant torso 1. no wear detected has no matches with the diary notation of no wear
+22. infant torso 2. no wear detected has no matches with the diary notation of no wear
+22 INFANT ANKLE:
+22.infant ankle no wear not detected and not noted in the diary
+22 MOTHER:
+22. mother 1. no wear detected has no matches with the diary notation of no wear
+23 INFANT TORSO:
+23.infant torso no wear not detected for 2 no wear blocks
+23 INFANT ANKLE:
+23.infant ankle no wear not detected and not noted in the diary
+23 MOTHER:
+23. mother 1. no wear detected has no matches with the diary notation of no wear
+23. mother 2. no wear detected has no matches with the diary notation of no wear
+24 INFANT TORSO:
+24. infant torso 1. no wear detected matches with the diary notation of no wear at start for 106.733333333 minutes and at end for 0 minutes
+24 INFANT ANKLE:
+24.infant ankle no wear not detected for 1 no wear blocks
+24 MOTHER:
+24. mother 1. no wear detected has no matches with the diary notation of no wear
+25 INFANT TORSO:
+25. infant torso 1. no wear detected has no matches with the diary notation of no wear
+25 INFANT ANKLE:
+25.infant ankle no wear not detected and not noted in the diary
+25 MOTHER:
+25. mother 1. no wear detected matches with the diary notation of no wear at start for 116.283333333 minutes and at end for 136.283333333 minutes
+25. mother 2. no wear detected has no matches with the diary notation of no wear
+26 INFANT TORSO:
+26. infant torso 1. no wear detected matches with the diary notation of no wear at start for 67.9333333333 minutes and at end for 137.933333333 minutes
+26 INFANT ANKLE:
+26.infant ankle no wear not detected and not noted in the diary
+26 MOTHER:
+26.mother no wear not detected and not noted in the diary
+27 INFANT TORSO:
+27. infant torso 1. no wear detected matches with the diary notation of no wear at start for 71.25 minutes and at end for 141.25 minutes
+27 INFANT ANKLE:
+27.infant ankle no wear not detected and not noted in the diary
+27 MOTHER:
+27. mother 1. no wear detected has no matches with the diary notation of no wear
+28 INFANT TORSO:
+28.infant torso no wear not detected and not noted in the diary
+28 INFANT ANKLE:
+28.infant ankle no wear not detected and not noted in the diary
+28 MOTHER:
+28.mother no wear not detected and not noted in the diary
+29 INFANT TORSO:
+29. infant torso 1. no wear detected has no matches with the diary notation of no wear
+29 INFANT ANKLE:
+29.infant ankle no wear not detected and not noted in the diary
+29 MOTHER:
+29.mother no wear not detected and not noted in the diary
+30 INFANT TORSO:
+30.infant torso no wear not detected and not noted in the diary
+30 INFANT ANKLE:
+30.infant ankle no wear not detected and not noted in the diary
+30 MOTHER:
+30.mother no wear not detected and not noted in the diary
+correctly not detected any no wear: 54 entire 48 hour measurments
+not detected no wear blocks that were noted in the diary: 6 blocks
+detected no wear blocks that were not noted in the diary: 26 blocks
+all together minutes of mismatch for start and end together: -1609.17 with average: -160.92
+[jerneja_m@purple timed_wear]$ 
+

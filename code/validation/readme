@@ -1,0 +1,2 @@
+validation of the no wear time script will go through all infant mother pairs and their corresponding three monitors and load the no wear timestamps
+for each. diary noted no wear timestamps are also loaded and compared. time difference to the nearst match is printed or no match informed.

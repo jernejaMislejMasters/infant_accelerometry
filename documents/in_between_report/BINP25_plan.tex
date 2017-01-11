@@ -1,0 +1,140 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Journal Article
+% LaTeX Template
+
+\documentclass{article}
+
+\usepackage{hyperref}
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+\linespread{1.3} % Line spacing - Palatino needs more space between lines
+\usepackage[hmarginratio=1:1,top=32mm,columnsep=20pt]{geometry} % Document margins
+
+\usepackage{float} % Required for tables and figures in the multi-column environment - they need to be placed in specific locations with the [H] (e.g. \begin{table}[H])
+\usepackage{hyperref} % For hyperlinks in the PDF
+
+
+\usepackage{abstract} % Allows abstract customization
+\renewcommand{\abstractnamefont}{\normalfont\bfseries} % Set the "Abstract" text to bold
+\renewcommand{\abstracttextfont}{\normalfont\small\itshape} % Set the abstract itself to small italic text
+
+\renewcommand\thesection{\Roman{section}} % Roman numerals for the sections
+\renewcommand\thesubsection{\Roman{subsection}} % Roman numerals for subsections
+
+\usepackage{fancyhdr} % Headers and footers
+\pagestyle{fancy} % All pages have headers and footers
+\fancyhead{} % Blank out the default header
+\fancyfoot{} % Blank out the default footer
+\fancyhead[C]{BINP25 project plan $\bullet$ June 2016 } % Custom header text
+\fancyfoot[RO,LE]{\thepage} % Custom footer text
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\title{\vspace{-15mm}\fontsize{12pt}{10pt}\selectfont{Working title:\\}\vspace{1mm}\fontsize{16pt}{12pt}\selectfont\textbf{Analysis of tri-axial accelerometer data of infants and their mothers in relation to other characteristics}} % Article title
+
+\author{
+\large
+\text{Student:}
+\textsc{Jerneja Mislej}\\[2mm] % Your name
+\normalsize University of Lund \\ % Your institution
+\normalsize \href{mailto:bif15jmi@student.lu.se}{bif15jmi@student.lu.se}\\\\ % Your email address
+\large
+\text{Project supervisor:}
+\textsc{Frida Renstrom}\\[2mm] % Your name
+\normalsize University of Lund \\ % Your institution
+\normalsize \href{mailto:Frida.Renstrom@med.lu.se}{Frida.Renstrom@med.lu.se}\\ % Your email address
+\large \\
+\text{Assistant project supervisors:}
+\textsc{Paul W. Franks, Azra Kurbasic}\\[2mm] % Your name
+\normalsize University of Lund \\ % Your institution
+\normalsize \href{mailto:Paul.Franks@med.lu.se}{Paul.Franks@med.lu.se}\\ \\% Your email address
+\normalsize \href{mailto:Azra.Kurbasic@med.lu.se}{Azra.Kurbasic@med.lu.se}\\
+\vspace{-5mm}
+}
+\date{}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Insert title
+
+\thispagestyle{fancy} % All pages have headers and footers
+
+%---------------------------------ph-------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\begin{abstract}
+
+\noindent 
+\fontsize{10pt}{11pt}\selectfont {The main aim of the project is to prepare, process and analyze tri-axial accelerometer data taken of infants and their mothers during different life stages. Tri-axial accelerometer data is stored in a raw form of three signals, for the x,y and z axis. These three signals need to be prepared and preprocessed in order to account and correct for accelerations not related to body movement. After signal processing, the accelerometer data is to be analyzed along with other extensive measurements, of for example, energy expenditure and anthropometric characteristics. \\
+Mothers and infants accelerometer data as well as other measured characteristics, could all present different subjects of a statistical analysis whose relations could be examined in the project.
+\\\\\\\\\\}
+
+\end{abstract}
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+\section{Basic information}
+
+\fontsize{11.25pt}{11.1pt}\selectfont {Within the masters program of Bioinformatics at Lund University, Department of Biology, I will carry out a 7,5 credit bioinformatics project under the code BINP25. \\ The project will take place at the department of Genetic and Molecular Epidemiology in the Lund University Diabetes Center at the Clinical Research Center in Malmo, under the supervision of Frida Renstrom, Paul Franks and Azra Kurbasic.\\
+The project will start in week 24 on 12th of June 2016 and will finish in week 35, on the 2st of September 2016.
+}
+
+\section{Project}
+
+\subsection{Content}
+
+\fontsize{11.25pt}{11.1pt}\selectfont {The project will be concerned with the data collected in the preparatory project for the LifeGene Study. The data consist of tri-axial accelerometer measurements taken of mothers and infants along with other extensive measurements, of for example, energy expenditure and anthropometric characteristics.\\
+First measurements were performed with pregnant women in their third trimester. During a 10-day period, body composition, energy expenditure, insulin and beta-cell response were estimated along with extensive blood analyses and measurements of physical activity subcomponents and sedentary time which included tri-axial accelerometer measurements. Second measurements were taken at 4 months post-partum, where measurements were performed with mothers and infants, while focusing on the same key areas as before.\\
+Key areas can be analyzed between or within the area, where the focus would be on the relation between mother and infant measurements. Several studies were already performed. For example, one focused on maternal physical activity and insulin action during pregnancy in relation with infant body composition[4], another focused on maternal gestational weight gain in relation to infant body composition and adipokine concentrations[2].\\
+This project would focus on the preparation and processing of signals representing tri-axial accelerometer measurements and afterwards, analyzing the accelerometer data along with other measurements and characteristics, aiming to highlight associations between lifestyle behaviors and markers of cardiometabolic health.\\}
+
+\subsection{Timeline}
+\fontsize{11.25pt}{11.1pt}\selectfont {
+\begin{itemize}
+\item 12.6.2016 - 17.6.2016: Project starts, the student gets acquainted with the topic and available data.
+\item 19.6.2016 - 19.7.2016: Preparing and processing tri-axial accelerometer data.
+\item 19.7.2016 - 22.7.2016: Preparing the rest of the measurements to form a dataset appropriate for statistical analysis.
+\item 24.7.2016 - 12.8.2016: Statistical analyses.
+\item 15.8.2016 - 19.8.2016: Completion and closure.
+\item 22.8.2016 - 2.9.2016: Project report and presentation preparation.
+\\\\\\\\\\\\
+\end{itemize}
+
+}
+
+
+
+%------------------------------------------------
+\\
+
+%------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	REFERENCE LIST
+%----------------------------------------------------------------------------------------
+
+\begin{thebibliography}{99} % Bibliography - this is intentionally simple in this template
+\bibitem[1]{ref1}
+van Hees VT, Renstrom F, Wright A, Gradmark A, Catt M, et al (2011) Estimation of Daily Energy Expenditure in Pregnant and Non-Pregnant Women
+Using a Wrist-Worn Tri-Axial Accelerometer. PLoS ONE 6(7): e22922. doi:10.1371/journal.pone.0022922
+\bibitem[2]{ref2}
+Angela C. Estampador \textit{et al.} (2014), Infant Body Composition and Adipokine Concentrations in Relation to Maternal Gestational Weight Gain,
+\newblock \textit{Diabetes Care, Volume 37}
+\bibitem[3]{ref3}
+Angela C Estampador, Paul W Franks (2014), Genetic and epigenetic catalysts in early-life programming of adult cardiometabolic disorders, Dovepress: \\http://dx.doi.org/10.2147/DMSO.S51433
+\bibitem[4]{ref4}
+Jeremy Pomeroy, Frida Renstrom, Paul W Franks \textit{et al.}, (2013) Maternal Physical Activity and Insulin Action in Pregnancy and Their Relationships With Infant Body Composition, Diabetes Care 36:267-269, DOI: 10.2337/dc12-0885
+\bibitem[5]{ref5}
+Gradmark et al. , (2011) Physical activity, sedentary behaviors, and estimated insulin sensitivity and secretion in pregnant and non-pregnant women, BMC Pregnancy and Childbirth:
+http://www.biomedcentral.com/1471-2393/11/44
+
+\end{thebibliography}
+%----------------------------------------------------------------------------------------
+
+\end{document}

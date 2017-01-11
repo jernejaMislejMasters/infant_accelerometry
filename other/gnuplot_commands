@@ -1,0 +1,33 @@
+set datafile separator ","
+
+
+plot "sample_infant_torso.csv" using 2 with lines
+
+set term x11 0
+
+
+plot "sample_infant_wrist.csv" using 2 with lines linecolor rgb "blue"
+
+
+n=1000 #number of intervals
+max=6. #max value
+min=-6. #min value
+width=(max-min)/n #interval width
+#function used to map a value to the intervals
+hist(x,width)=width*floor(x/width)+width/2.0
+set boxwidth width*0.9
+
+#count and plot
+plot "sample2_infant_wrist.csv" using (hist($2,width)):(1.0) smooth freq w boxes lc rgb"red" notitle
+
+
+n=1000 #number of intervals
+max=6. #max value
+min=-3. #min value
+width=(max-min)/n #interval width
+#function used to map a value to the intervals
+hist(x,width)=width*floor(x/width)+width/2.0
+set boxwidth width*0.9
+
+#count and plot
+plot "sample2_mother.csv" using (hist($2,width)):(1.0) smooth freq w boxes lc rgb "blue" notitle

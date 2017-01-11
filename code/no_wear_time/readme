@@ -1,0 +1,11 @@
+scripts to handle no wear time will take input:
+	-window length for the no wear detection, default is 30 minuts
+	-cutpoint for the SD, default is 0.002 g
+	-cutpoint for the span between min and max, default is 0.015 g
+	-how much data to process, default is all 48 hours
+
+the script will go through the data with a window, check the SD and span between min and max for all three and if all three are below the threshold, an extra condition
+containg line fitting is checked and the window is classified as no wear or not
+
+the no wear windows in the infant ankle and torso are removed  in infant ankle, torso and mother, the mothers is removed just in the mothers and the new data saved
+no wear windows are ploted and graphs saved

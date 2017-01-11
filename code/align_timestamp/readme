@@ -1,0 +1,2 @@
+scripts to align timestamp will go through all the mother infant pair and the corresponding three monitors and align the timestamps, so that they all start at the same time stamp
+(truncate to the latest timestamp)

@@ -1,0 +1,782 @@
+1. infant:
+Sleeping:
+	65.97% of time with total sleeping time 31.7 hours
+	average length of sleeping block 95.0 minutes
+	shortest sleeping block 45.0 minutes
+	longest sleeping block 280.0 minutes
+	sleeping frequency 0.42 per hour
+
+Feeding:
+	8.68% of time with total feeding time 4.2 hours
+	average length of feeding block 9.6 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 15.0 minutes
+	feeding frequency 0.54 per hour
+
+Validation of being moved detection:
+	0.48% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	42.74% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.84% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	6.75% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	23.09% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	5.96% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	18.14% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+2. infant:
+Sleeping:
+	68.23% of time with total sleeping time 32.8 hours
+	average length of sleeping block 218.3 minutes
+	shortest sleeping block 25.0 minutes
+	longest sleeping block 625.0 minutes
+	sleeping frequency 0.19 per hour
+
+Feeding:
+	19.1% of time with total feeding time 9.2 hours
+	average length of feeding block 32.4 minutes
+	shortest feeding block 15.0 minutes
+	longest feeding block 70.0 minutes
+	feeding frequency 0.35 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	28.13% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	21.63% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.11% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	1.56% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	12.49% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	16.64% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	17.44% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+3. infant:
+Sleeping:
+	63.72% of time with total sleeping time 30.6 hours
+	average length of sleeping block 166.8 minutes
+	shortest sleeping block 5.0 minutes
+	longest sleeping block 475.0 minutes
+	sleeping frequency 0.23 per hour
+
+Feeding:
+	6.88% of time with total feeding time 3.3 hours
+	average length of feeding block 18.0 minutes
+	shortest feeding block 6.0 minutes
+	longest feeding block 29.0 minutes
+	feeding frequency 0.23 per hour
+
+Validation of being moved detection:
+	0.6% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	28.4% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	1.43% of time detected as being moved, fell only whitin feeding block noted in the diary
+	1.99% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	2.95% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.7% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	10.65% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	7.84% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	45.43% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+4. infant:
+Sleeping:
+	57.05% of time with total sleeping time 27.4 hours
+	average length of sleeping block 164.3 minutes
+	shortest sleeping block 10.0 minutes
+	longest sleeping block 410.0 minutes
+	sleeping frequency 0.21 per hour
+
+Feeding:
+	12.01% of time with total feeding time 5.8 hours
+	average length of feeding block 20.4 minutes
+	shortest feeding block 3.0 minutes
+	longest feeding block 40.0 minutes
+	feeding frequency 0.35 per hour
+
+Validation of being moved detection:
+	2.45% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	41.28% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	8.14% of time detected as being moved, fell only whitin feeding block noted in the diary
+	0.45% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	4.79% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.2% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	13.67% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	6.1% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	22.91% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+5. infant:
+Sleeping:
+	65.56% of time with total sleeping time 31.5 hours
+	average length of sleeping block 145.2 minutes
+	shortest sleeping block 10.0 minutes
+	longest sleeping block 600.0 minutes
+	sleeping frequency 0.27 per hour
+
+Feeding:
+	27.01% of time with total feeding time 13.0 hours
+	average length of feeding block 77.8 minutes
+	shortest feeding block 4.0 minutes
+	longest feeding block 214.0 minutes
+	feeding frequency 0.21 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	27.13% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	23.87% of time detected as being moved, fell only whitin feeding block noted in the diary
+	1.71% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	3.36% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	19.46% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	6.79% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	17.68% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+6. infant:
+Sleeping:
+	63.37% of time with total sleeping time 30.4 hours
+	average length of sleeping block 140.4 minutes
+	shortest sleeping block 15.0 minutes
+	longest sleeping block 570.0 minutes
+	sleeping frequency 0.27 per hour
+
+Feeding:
+	26.15% of time with total feeding time 12.6 hours
+	average length of feeding block 83.7 minutes
+	shortest feeding block 4.0 minutes
+	longest feeding block 214.0 minutes
+	feeding frequency 0.19 per hour
+
+Validation of being moved detection:
+	2.68% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	34.36% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	23.12% of time detected as being moved, fell only whitin feeding block noted in the diary
+	1.72% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	2.56% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	12.74% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	5.85% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	16.97% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+7. infant:
+Sleeping:
+	75.87% of time with total sleeping time 36.4 hours
+	average length of sleeping block 198.6 minutes
+	shortest sleeping block 20.0 minutes
+	longest sleeping block 665.0 minutes
+	sleeping frequency 0.23 per hour
+
+Feeding:
+	6.25% of time with total feeding time 3.0 hours
+	average length of feeding block 8.6 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 10.0 minutes
+	feeding frequency 0.44 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	39.3% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.89% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	2.76% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	11.61% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	6.55% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	36.9% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+8. infant:
+Sleeping:
+	69.03% of time with total sleeping time 33.1 hours
+	average length of sleeping block 198.8 minutes
+	shortest sleeping block 25.0 minutes
+	longest sleeping block 500.0 minutes
+	sleeping frequency 0.21 per hour
+
+Feeding:
+	5.63% of time with total feeding time 2.7 hours
+	average length of feeding block 14.7 minutes
+	shortest feeding block 3.0 minutes
+	longest feeding block 30.0 minutes
+	feeding frequency 0.23 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	48.57% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	2.52% of time detected as being moved, fell only whitin feeding block noted in the diary
+	5.93% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	1.22% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.88% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	12.87% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	5.2% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	22.81% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+9. infant:
+Sleeping:
+	67.78% of time with total sleeping time 32.5 hours
+	average length of sleeping block 97.6 minutes
+	shortest sleeping block 15.0 minutes
+	longest sleeping block 215.0 minutes
+	sleeping frequency 0.42 per hour
+
+Feeding:
+	6.32% of time with total feeding time 3.0 hours
+	average length of feeding block 7.3 minutes
+	shortest feeding block 2.0 minutes
+	longest feeding block 20.0 minutes
+	feeding frequency 0.52 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	41.2% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	1.08% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	11.79% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	27.81% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	0.27% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	17.84% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+10. infant:
+Sleeping:
+	58.33% of time with total sleeping time 28.0 hours
+	average length of sleeping block 129.2 minutes
+	shortest sleeping block 45.0 minutes
+	longest sleeping block 280.0 minutes
+	sleeping frequency 0.27 per hour
+
+Feeding:
+	5.66% of time with total feeding time 2.7 hours
+	average length of feeding block 10.2 minutes
+	shortest feeding block 2.0 minutes
+	longest feeding block 15.0 minutes
+	feeding frequency 0.33 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	30.61% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	1.15% of time detected as being moved, fell only whitin feeding block noted in the diary
+	4.58% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	1.15% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	9.27% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	7.63% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	45.61% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+11. infant:
+Sleeping:
+	81.6% of time with total sleeping time 39.2 hours
+	average length of sleeping block 130.6 minutes
+	shortest sleeping block 25.0 minutes
+	longest sleeping block 290.0 minutes
+	sleeping frequency 0.38 per hour
+
+Feeding:
+	10.14% of time with total feeding time 4.9 hours
+	average length of feeding block 17.2 minutes
+	shortest feeding block 10.0 minutes
+	longest feeding block 30.0 minutes
+	feeding frequency 0.35 per hour
+
+Validation of being moved detection:
+	2.38% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	40.55% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.5% of time detected as being moved, fell only whitin feeding block noted in the diary
+	0.28% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	4.83% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	17.33% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	1.19% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	32.95% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+12. infant:
+Sleeping:
+	88.19% of time with total sleeping time 42.3 hours
+	average length of sleeping block 181.4 minutes
+	shortest sleeping block 30.0 minutes
+	longest sleeping block 1110.0 minutes
+	sleeping frequency 0.29 per hour
+
+Feeding:
+	11.67% of time with total feeding time 5.6 hours
+	average length of feeding block 15.3 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 42.0 minutes
+	feeding frequency 0.46 per hour
+
+Validation of being moved detection:
+	2.65% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	34.57% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	1.88% of time detected as being moved, fell only whitin feeding block noted in the diary
+	4.14% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	3.3% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.52% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	12.75% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	7.74% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	32.44% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+13. infant:
+Sleeping:
+	49.48% of time with total sleeping time 23.8 hours
+	average length of sleeping block 79.2 minutes
+	shortest sleeping block 15.0 minutes
+	longest sleeping block 205.0 minutes
+	sleeping frequency 0.38 per hour
+
+Feeding:
+	10.66% of time with total feeding time 5.1 hours
+	average length of feeding block 16.2 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 35.0 minutes
+	feeding frequency 0.4 per hour
+
+Validation of being moved detection:
+	1.82% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	30.96% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.33% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	5.53% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	1.55% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	24.17% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	2.11% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	31.52% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+14. infant:
+Sleeping:
+	54.58% of time with total sleeping time 26.2 hours
+	average length of sleeping block 82.7 minutes
+	shortest sleeping block 15.0 minutes
+	longest sleeping block 240.0 minutes
+	sleeping frequency 0.4 per hour
+
+Feeding:
+	6.49% of time with total feeding time 3.1 hours
+	average length of feeding block 9.8 minutes
+	shortest feeding block 1.0 minutes
+	longest feeding block 15.0 minutes
+	feeding frequency 0.4 per hour
+
+Validation of being moved detection:
+	0.26% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	26.57% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.26% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	6.67% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	22.05% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	1.32% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	40.87% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+15. infant:
+Sleeping:
+	78.99% of time with total sleeping time 37.9 hours
+	average length of sleeping block 206.8 minutes
+	shortest sleeping block 45.0 minutes
+	longest sleeping block 675.0 minutes
+	sleeping frequency 0.23 per hour
+
+Feeding:
+	5.94% of time with total feeding time 2.9 hours
+	average length of feeding block 11.4 minutes
+	shortest feeding block 6.0 minutes
+	longest feeding block 20.0 minutes
+	feeding frequency 0.31 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	44.31% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	3.4% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	4.65% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	15.01% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	2.78% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	29.86% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+16. infant:
+Sleeping:
+	62.33% of time with total sleeping time 29.9 hours
+	average length of sleeping block 138.1 minutes
+	shortest sleeping block 20.0 minutes
+	longest sleeping block 270.0 minutes
+	sleeping frequency 0.27 per hour
+
+Feeding:
+	5.1% of time with total feeding time 2.5 hours
+	average length of feeding block 7.7 minutes
+	shortest feeding block 4.0 minutes
+	longest feeding block 12.0 minutes
+	feeding frequency 0.4 per hour
+
+Validation of being moved detection:
+	0.43% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	42.6% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.64% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.93% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	4.86% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	8.61% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	5.97% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	33.95% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+17. infant:
+Sleeping:
+	55.73% of time with total sleeping time 26.8 hours
+	average length of sleeping block 84.5 minutes
+	shortest sleeping block 15.0 minutes
+	longest sleeping block 220.0 minutes
+	sleeping frequency 0.4 per hour
+
+Feeding:
+	7.5% of time with total feeding time 3.6 hours
+	average length of feeding block 13.5 minutes
+	shortest feeding block 10.0 minutes
+	longest feeding block 25.0 minutes
+	feeding frequency 0.33 per hour
+
+Validation of being moved detection:
+	0.26% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	28.85% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	6.62% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	1.1% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.46% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	15.67% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	2.85% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	44.21% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+18. infant:
+Sleeping:
+	65.0% of time with total sleeping time 31.2 hours
+	average length of sleeping block 110.1 minutes
+	shortest sleeping block 25.0 minutes
+	longest sleeping block 285.0 minutes
+	sleeping frequency 0.35 per hour
+
+Feeding:
+	7.53% of time with total feeding time 3.6 hours
+	average length of feeding block 16.7 minutes
+	shortest feeding block 7.0 minutes
+	longest feeding block 30.0 minutes
+	feeding frequency 0.27 per hour
+
+Validation of being moved detection:
+	0.53% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	51.99% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	1.22% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.62% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	1.06% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.89% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	20.13% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	1.63% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	19.94% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+19. infant:
+Sleeping:
+	59.55% of time with total sleeping time 28.6 hours
+	average length of sleeping block 131.9 minutes
+	shortest sleeping block 30.0 minutes
+	longest sleeping block 355.0 minutes
+	sleeping frequency 0.27 per hour
+
+Feeding:
+	12.12% of time with total feeding time 5.8 hours
+	average length of feeding block 17.4 minutes
+	shortest feeding block 2.0 minutes
+	longest feeding block 130.0 minutes
+	feeding frequency 0.42 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	31.13% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	2.75% of time detected as being moved, fell only whitin feeding block noted in the diary
+	5.05% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	2.03% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	1.52% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	8.41% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	7.28% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	41.84% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+21. infant:
+Sleeping:
+	38.99% of time with total sleeping time 18.7 hours
+	average length of sleeping block 70.2 minutes
+	shortest sleeping block 38.0 minutes
+	longest sleeping block 170.0 minutes
+	sleeping frequency 0.33 per hour
+
+Feeding:
+	16.84% of time with total feeding time 8.1 hours
+	average length of feeding block 18.7 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 45.0 minutes
+	feeding frequency 0.54 per hour
+
+Validation of being moved detection:
+	4.77% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	26.4% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	6.76% of time detected as being moved, fell only whitin feeding block noted in the diary
+	2.37% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	1.75% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	1.02% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	15.05% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	11.33% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	30.55% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+22. infant:
+Sleeping:
+	54.17% of time with total sleeping time 26.0 hours
+	average length of sleeping block 104.0 minutes
+	shortest sleeping block 35.0 minutes
+	longest sleeping block 210.0 minutes
+	sleeping frequency 0.31 per hour
+
+Feeding:
+	4.31% of time with total feeding time 2.1 hours
+	average length of feeding block 6.2 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 7.0 minutes
+	feeding frequency 0.42 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	26.97% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	1.97% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	1.28% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	22.47% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	3.09% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	44.21% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+23. infant:
+Sleeping:
+	85.94% of time with total sleeping time 41.3 hours
+	average length of sleeping block 247.5 minutes
+	shortest sleeping block 30.0 minutes
+	longest sleeping block 780.0 minutes
+	sleeping frequency 0.21 per hour
+
+Feeding:
+	3.3% of time with total feeding time 1.6 hours
+	average length of feeding block 7.3 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 10.0 minutes
+	feeding frequency 0.27 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	58.68% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	4.63% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	2.13% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	16.54% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	1.66% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	16.37% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+24. infant:
+Sleeping:
+	72.74% of time with total sleeping time 34.9 hours
+	average length of sleeping block 149.6 minutes
+	shortest sleeping block 15.0 minutes
+	longest sleeping block 335.0 minutes
+	sleeping frequency 0.29 per hour
+
+Feeding:
+	9.34% of time with total feeding time 4.5 hours
+	average length of feeding block 14.9 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 30.0 minutes
+	feeding frequency 0.38 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	59.02% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	3.69% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.81% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	15.31% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	3.69% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	17.48% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+25. infant:
+Sleeping:
+	68.23% of time with total sleeping time 32.8 hours
+	average length of sleeping block 140.4 minutes
+	shortest sleeping block 30.0 minutes
+	longest sleeping block 430.0 minutes
+	sleeping frequency 0.29 per hour
+
+Feeding:
+	7.85% of time with total feeding time 3.8 hours
+	average length of feeding block 12.6 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 21.0 minutes
+	feeding frequency 0.38 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	38.57% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	1.47% of time detected as being moved, fell only whitin feeding block noted in the diary
+	3.93% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	14.94% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	10.06% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	31.02% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+26. infant:
+Sleeping:
+	64.58% of time with total sleeping time 31.0 hours
+	average length of sleeping block 124.0 minutes
+	shortest sleeping block 20.0 minutes
+	longest sleeping block 370.0 minutes
+	sleeping frequency 0.31 per hour
+
+Feeding:
+	5.97% of time with total feeding time 2.9 hours
+	average length of feeding block 10.1 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 20.0 minutes
+	feeding frequency 0.35 per hour
+
+Validation of being moved detection:
+	0.43% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	29.22% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	4.47% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	8.73% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	1.44% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	20.89% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	2.68% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	32.14% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+27. infant:
+Sleeping:
+	60.07% of time with total sleeping time 28.8 hours
+	average length of sleeping block 173.0 minutes
+	shortest sleeping block 15.0 minutes
+	longest sleeping block 500.0 minutes
+	sleeping frequency 0.21 per hour
+
+Feeding:
+	3.75% of time with total feeding time 1.8 hours
+	average length of feeding block 6.4 minutes
+	shortest feeding block 2.0 minutes
+	longest feeding block 15.0 minutes
+	feeding frequency 0.35 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	48.29% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	0.0% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	2.19% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	17.56% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	4.62% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	27.34% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+28. infant:
+Sleeping:
+	54.13% of time with total sleeping time 26.0 hours
+	average length of sleeping block 97.4 minutes
+	shortest sleeping block 25.0 minutes
+	longest sleeping block 315.0 minutes
+	sleeping frequency 0.33 per hour
+
+Feeding:
+	10.59% of time with total feeding time 5.1 hours
+	average length of feeding block 15.3 minutes
+	shortest feeding block 5.0 minutes
+	longest feeding block 50.0 minutes
+	feeding frequency 0.42 per hour
+
+Validation of being moved detection:
+	0.3% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	44.97% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	1.86% of time detected as being moved, fell only whitin feeding block noted in the diary
+	4.64% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.16% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	16.58% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	9.62% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	21.86% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+29. infant:
+Sleeping:
+	85.31% of time with total sleeping time 41.0 hours
+	average length of sleeping block 189.0 minutes
+	shortest sleeping block 18.0 minutes
+	longest sleeping block 625.0 minutes
+	sleeping frequency 0.27 per hour
+
+Feeding:
+	3.58% of time with total feeding time 1.7 hours
+	average length of feeding block 10.3 minutes
+	shortest feeding block 8.0 minutes
+	longest feeding block 15.0 minutes
+	feeding frequency 0.21 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	45.04% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	0.0% of time detected as being moved, fell only whitin feeding block noted in the diary
+	0.05% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.0% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	23.5% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	5.45% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	25.95% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+
+None
+30. infant:
+Sleeping:
+	73.78% of time with total sleeping time 35.4 hours
+	average length of sleeping block 177.1 minutes
+	shortest sleeping block 20.0 minutes
+	longest sleeping block 365.0 minutes
+	sleeping frequency 0.25 per hour
+
+Feeding:
+	7.12% of time with total feeding time 3.4 hours
+	average length of feeding block 15.8 minutes
+	shortest feeding block 10.0 minutes
+	longest feeding block 30.0 minutes
+	feeding frequency 0.27 per hour
+
+Validation of being moved detection:
+	0.0% of time detected as being moved, fell whitin a sleeping and feeding block noted in the diary
+	34.75% of time detected as being moved, fell only whitin a sleeping block noted in the diary
+	2.28% of time detected as being moved, fell only whitin feeding block noted in the diary
+	3.06% of time detected as being moved fell close to the start or end of a sleeping and feeding block noted in the diary
+	0.0% of time detected as being moved within a sleeping block noted in the diary, but was also close to the start or end of a feeding block
+	0.98% of time detected as being moved within a feeding block noted in the diary, but was also close to the start or end of a sleeping block
+	16.55% of time detected as being moved fell close to the start or end of a sleeping only block noted in the diary
+	6.29% of time detected as being moved fell close to the start or end of a feeding only block noted in the diary
+	36.08% of time detected as being moved, did not fall between any block noted in the diary or close, in other words fell into infants free time
+

@@ -1,0 +1,284 @@
+[jerneja_m@purple timed]$ python ../../code/preproccess_GENEA_visualize.py 30 0.002 0.015 48 &
+[1] 61708
+[jerneja_m@purple timed]$ subjects 1
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-01-14 01:17:38.0000', '2009-01-14 02:12:38.0000')]
+subjects 2
+31.1% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+31.1% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+31.1% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 2(2) at times:
+[('2009-02-09 10:37:27.0000', '2009-02-09 14:47:27.0000'), ('2009-02-10 20:17:27.0000', '2009-02-11 07:02:27.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-02-09 18:17:27.0000', '2009-02-09 20:42:27.0000')]
+subjects 3
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-03-20 23:26:33.0000', '2009-03-21 00:06:33.0000')]
+subjects 4
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 5
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 6
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 7
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 8
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-01-29 00:48:43.0000', '2009-01-29 01:23:43.0000')]
+subjects 9
+13.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+13.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+13.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-01-13 13:24:23.0000', '2009-01-13 19:39:23.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-01-15 03:29:23.0000', '2009-01-15 07:54:23.0000')]
+subjects 10
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 11
+1.7% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+1.8% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+1.9% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-02-13 07:43:55.0000', '2009-02-13 08:27:19.8500')]
+number of no wear blocks in INFANT ANKLE is 1(1) at times:
+[('2009-02-13 07:43:55.0000', '2009-02-13 08:30:20.8500')]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 12
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 13
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 2(2) at times:
+[('2009-01-20 01:56:33.0000', '2009-01-20 02:36:33.0000'), ('2009-01-21 03:56:33.0000', '2009-01-21 04:26:33.0000')]
+subjects 14
+1.2% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+1.2% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+1.2% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-02-17 19:36:20.0000', '2009-02-17 20:11:20.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 4(4) at times:
+[('2009-02-17 22:26:20.0000', '2009-02-17 23:06:20.0000'), ('2009-02-18 21:26:20.0000', '2009-02-18 22:11:20.0000'), ('2009-02-19 00:16:20.0000', '2009-02-19 01:06:20.0000'), ('2009-02-19 05:01:20.0000', '2009-02-19 06:01:20.0000')]
+subjects 15
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 16
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 17
+3.5% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+3.5% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+3.5% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-06-09 05:34:16.0000', '2009-06-09 07:14:16.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-06-09 05:34:16.0000', '2009-06-09 07:14:16.0000')]
+subjects 18
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 19
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-03-27 22:17:39.0000', '2009-03-27 23:02:39.0000')]
+subjects 20
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-04-29 13:10:26.0000', '2009-04-29 18:10:26.0000')]
+subjects 21
+9.4% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+9.4% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+9.4% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-06-09 03:58:53.0000', '2009-06-09 08:28:53.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-06-09 19:48:53.0000', '2009-06-10 07:38:23.8500')]
+subjects 22
+4.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+4.2% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+3.8% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 2(2) at times:
+[('2009-06-17 16:42:29.0000', '2009-06-17 17:17:29.0000'), ('2009-06-18 06:22:29.0000', '2009-06-18 07:38:37.8500')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-06-16 23:07:29.0000', '2009-06-17 00:07:29.0000')]
+subjects 23
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 2(2) at times:
+[('2009-06-22 22:05:42.0000', '2009-06-22 22:50:42.0000'), ('2009-06-24 00:20:42.0000', '2009-06-24 01:00:42.0000')]
+subjects 24
+6.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+6.1% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+6.3% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-06-16 21:28:16.0000', '2009-06-16 22:03:16.0000')]
+subjects 25
+22.8% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+22.8% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+22.7% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-06-26 17:28:43.0000', '2009-06-27 04:23:43.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 2(2) at times:
+[('2009-06-26 06:03:43.0000', '2009-06-26 07:13:43.0000'), ('2009-06-26 23:38:43.0000', '2009-06-27 01:03:43.0000')]
+subjects 26
+3.8% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+3.8% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+3.8% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-06-24 12:52:04.0000', '2009-06-24 14:42:04.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+subjects 27
+3.7% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+3.7% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+3.6% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 1(1) at times:
+[('2009-06-03 19:48:45.0000', '2009-06-03 21:33:45.0000')]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 1(1) at times:
+[('2009-06-03 01:43:45.0000', '2009-06-03 02:18:45.0000')]
+subjects 28
+0.0% of INFANT TORSO data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of INFANT ANKLE data points were removed as a consequence of either infant torso or ankle no wear time blocks
+0.0% of MOTHER data points were removed as a consequence of either infant torso or ankle no wear time blocks
+number of no wear blocks in INFANT TORSO is 0(0) at times:
+[]
+number of no wear blocks in INFANT ANKLE is 0(0) at times:
+[]
+number of no wear blocks in MOTHER is 0(0) at times:
+[]
+
+

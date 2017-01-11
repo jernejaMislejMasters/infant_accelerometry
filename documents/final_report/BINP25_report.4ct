@@ -1,0 +1,51 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\tocsection{I}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-1}{Introduction}}{4}\relax 
+\doTocEntry\tocsection{II}{\csname a:TocLink\endcsname{1}{x1-20002}{QQ2-1-2}{Data preparation}}{6}\relax 
+\doTocEntry\tocsubsection{I}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-3}{Data organization}}{6}\relax 
+\doTocEntry\tocsubsection{II}{\csname a:TocLink\endcsname{1}{x1-40002}{QQ2-1-4}{Timestamp alignment}}{6}\relax 
+\doTocEntry\tocsection{III}{\csname a:TocLink\endcsname{1}{x1-50003}{QQ2-1-5}{Data preprocessing}}{7}\relax 
+\doTocEntry\tocsubsection{I}{\csname a:TocLink\endcsname{1}{x1-60001}{QQ2-1-6}{Accelerometer non-wear time}}{7}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-6001r1}{}{\ignorespaces The x, y and z axis are aligned vertically, while the infant torso, infant ankle and mother wrist monitors are aligned horizontally. The yellow color represents infant torso non-wear time, which is subsequently colored in the rest of the measurements and the black color represents mothers non-wear time, which is colored only in mothers measurement.}}{figure}\relax 
+\doTocEntry\tocsubsection{II}{\csname a:TocLink\endcsname{1}{x1-70002}{QQ2-1-8}{Summary measure extraction}}{9}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{1}{x1-7001r2}{}{\ignorespaces The extracted summaries for infants torso and infants ankle measurements, showing similarity due to the contribution of the caretaker.}}{figure}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{1}{x1-7002r3}{}{\ignorespaces Summaries of infant ankle, infants torso and mothers measurements, exhibiting similar activity patterns through night and day with visible leftovers of the gravitational acceleration.}}{figure}\relax 
+\doTocEntry\tocsubsection{III}{\csname a:TocLink\endcsname{1}{x1-80003}{QQ2-1-11}{Correcting for the gravity component}}{16}\relax 
+\doTocEntry\toclof{4}{\csname a:TocLink\endcsname{1}{x1-8003r4}{}{\ignorespaces A close up of all three summaries before and after the baseline correction.}}{figure}\relax 
+\doTocEntry\tocsubsection{IV}{\csname a:TocLink\endcsname{1}{x1-90004}{QQ2-1-13}{Accelerations contributed by the caretakers}}{20}\relax 
+\doTocEntry\toclof{5}{\csname a:TocLink\endcsname{1}{x1-9001r5}{}{\ignorespaces Example of the torso and ankle placed measurements, where blocks of \textit  {infant being moved} are noted with red.}}{figure}\relax 
+\doTocEntry\toclof{6}{\csname a:TocLink\endcsname{1}{x1-9002r6}{}{\ignorespaces A plot exhibiting the result of a simple subtraction of the torso placed measurement from the ankle placed measurement.}}{figure}\relax 
+\doTocEntry\toclof{7}{\csname a:TocLink\endcsname{1}{x1-9003r7}{}{\ignorespaces A plot exhibiting the result of subtracting the windowed intensities of the torso placed measurement from the ankle placed measurement.}}{figure}\relax 
+\doTocEntry\toclof{8}{\csname a:TocLink\endcsname{1}{x1-9004r8}{}{\ignorespaces A plot exhibiting the result of correcting the ankle placed measurement based on the ratio between the windowed intensities.}}{figure}\relax 
+\doTocEntry\toclof{9}{\csname a:TocLink\endcsname{1}{x1-9005r9}{}{\ignorespaces A plot showing a few examples of rough similarities between torso and ankle placed measurement.}}{figure}\relax 
+\doTocEntry\toclof{10}{\csname a:TocLink\endcsname{1}{x1-9006r10}{}{\ignorespaces A plot showing a few examples of precise similarities between torso and ankle placed measurement.}}{figure}\relax 
+\doTocEntry\toclof{11}{\csname a:TocLink\endcsname{1}{x1-9007r11}{}{\ignorespaces First plot showing a slight time lag, second plot showing larger intensities on the torso placed monitor and the third plot showing the presence of other accelerations and noise.}}{figure}\relax 
+\doTocEntry\toclof{12}{\csname a:TocLink\endcsname{1}{x1-9008r12}{}{\ignorespaces Example of the different results from approach \textbf  {B} and \textbf  {D} regarding the absolute intensities, which are no longer negative in approach \textbf  {D}.}}{figure}\relax 
+\doTocEntry\toclof{13}{\csname a:TocLink\endcsname{1}{x1-9009r13}{}{\ignorespaces Example of the different results from approach \textbf  {C} and \textbf  {D}. One can see substantially less left-overs from the contributing accelerations in the approach \textbf  {D}.}}{figure}\relax 
+\doTocEntry\tocsection{IV}{\csname a:TocLink\endcsname{1}{x1-100004}{QQ2-1-23}{Physical activity}}{48}\relax 
+\doTocEntry\tocsubsection{I}{\csname a:TocLink\endcsname{1}{x1-110001}{QQ2-1-24}{Extraction}}{48}\relax 
+\doTocEntry\toclof{14}{\csname a:TocLink\endcsname{1}{x1-11001r14}{}{\ignorespaces PA extraction after approach \textbf  {B} exhibits the consequences of the negative features of the approach.}}{figure}\relax 
+\doTocEntry\toclof{15}{\csname a:TocLink\endcsname{1}{x1-11002r15}{}{\ignorespaces PA extraction after approach \textbf  {C}.}}{figure}\relax 
+\doTocEntry\toclof{16}{\csname a:TocLink\endcsname{1}{x1-11003r16}{}{\ignorespaces PA extraction from absolute intensities, based on approach \textbf  {D}.}}{figure}\relax 
+\doTocEntry\toclof{17}{\csname a:TocLink\endcsname{1}{x1-11004r17}{}{\ignorespaces PA extraction from the original summary, based on approach \textbf  {D}.}}{figure}\relax 
+\doTocEntry\toclof{18}{\csname a:TocLink\endcsname{1}{x1-11005r18}{}{\ignorespaces PA extraction from the remaining original summary, where all the \textit  {infant being moved} blocks had been removed.}}{figure}\relax 
+\doTocEntry\tocsubsection{II}{\csname a:TocLink\endcsname{1}{x1-120002}{QQ2-1-30}{Analysis}}{64}\relax 
+\doTocEntry\toclof{19}{\csname a:TocLink\endcsname{1}{x1-12001r19}{}{\ignorespaces Comparing the proportion of time in PA after approach \textbf  {A} and proportion of time infant was being moved, over all subjects.}}{figure}\relax 
+\doTocEntry\toclof{20}{\csname a:TocLink\endcsname{1}{x1-12002r20}{}{\ignorespaces Comparing the proportion of time in PA between approaches \textbf  {B} and \textbf  {C}, over all subjects.}}{figure}\relax 
+\doTocEntry\toclof{21}{\csname a:TocLink\endcsname{1}{x1-12003r21}{}{\ignorespaces Comparing the relationship between the proportions of infants PA and being moved time.}}{figure}\relax 
+\doTocEntry\toclof{22}{\csname a:TocLink\endcsname{1}{x1-12004r22}{}{\ignorespaces Comparing the proportion of time in PA after approach \textbf  {D} and the proportion of time the infant was being moved, over all subjects.}}{figure}\relax 
+\doTocEntry\toclof{23}{\csname a:TocLink\endcsname{1}{x1-12005r23}{}{\ignorespaces Relationship between the proportion of infants PA after approach \textbf  {E} and proportion of being moved time.}}{figure}\relax 
+\doTocEntry\tocsection{V}{\csname a:TocLink\endcsname{1}{x1-130005}{QQ2-1-36}{Validation against sleeping and feeding diary}}{79}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-13001r1}{}{\ignorespaces Example of a data table, created manually based on a diary kept by the infants mother.}}{table}\relax 
+\doTocEntry\toclot{2}{\csname a:TocLink\endcsname{1}{x1-13002r2}{}{\ignorespaces Table of timestamp proportions falling in certain diary blocks. }}{table}\relax 
+\doTocEntry\toclof{24}{\csname a:TocLink\endcsname{1}{x1-13003r24}{}{\ignorespaces The sleeping and feeding occurs in short blocks all through the experiment, night time is less expressed. }}{figure}\relax 
+\doTocEntry\toclof{25}{\csname a:TocLink\endcsname{1}{x1-13004r25}{}{\ignorespaces The sleeping and feeding occurs in larger blocks, night time is more expressed with clearly less \textit  {infant being moved} blocks.}}{figure}\relax 
+\doTocEntry\toclot{3}{\csname a:TocLink\endcsname{1}{x1-13005r3}{}{\ignorespaces Proportions of PA occurring while infant awake, after different approaches.}}{table}\relax 
+\doTocEntry\toclof{26}{\csname a:TocLink\endcsname{1}{x1-13006r26}{}{\ignorespaces Example of the extracted PA along with the diary noted sleep and night time according to the absolute timestamp.}}{figure}\relax 
+\doTocEntry\toclot{4}{\csname a:TocLink\endcsname{1}{x1-13007r4}{}{\ignorespaces Proportion of sleeping and feeding time overall subjects with a diary available.}}{table}\relax 
+\doTocEntry\tocsection{VI}{\csname a:TocLink\endcsname{1}{x1-140006}{QQ2-1-44}{Closure}}{101}\relax 
+\doTocEntry\tocsubsection{I}{\csname a:TocLink\endcsname{1}{x1-150001}{QQ2-1-45}{Discussion}}{101}\relax 
+\doTocEntry\toclot{5}{\csname a:TocLink\endcsname{1}{x1-15001r5}{}{\ignorespaces Examples of variability in the dataset of 30 subjects.}}{table}\relax 
+\doTocEntry\tocsubsection{II}{\csname a:TocLink\endcsname{1}{x1-160002}{QQ2-1-47}{Conclusions}}{104}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{Q1-1-48}{}{subparagraphReferences}}{106}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-17000II}{QQ2-1-49}{References}}{106}\relax 
+\par 

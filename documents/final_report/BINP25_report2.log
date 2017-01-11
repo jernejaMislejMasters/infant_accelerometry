@@ -1,0 +1,1479 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.29)  19 DEC 2016 11:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input{BINP25_report2.tex}
+(./BINP25_report2.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count87
+\Hy@pagecounter=\count88
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count91
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+\c@bookmark@seq@number=\count96
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks15
+\MT@count=\count97
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen107
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count98
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip44
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count99
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count100
+\lst@currlwidth=\dimen108
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen109
+\lst@width=\dimen110
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen111
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count107
+\Gm@cntv=\count108
+\c@Gm@tempcnt=\count109
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count110
+\mult@box=\box28
+\multicol@leftmargin=\dimen120
+\c@unbalance=\count111
+\c@collectmore=\count112
+\doublecol@number=\count113
+\multicoltolerance=\count114
+\multicolpretolerance=\count115
+\full@width=\dimen121
+\page@free=\dimen122
+\premulticols=\dimen123
+\postmulticols=\dimen124
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box29
+\last@line=\box30
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count116
+\c@finalcolumnbadness=\count117
+\last@try=\dimen125
+\multicolovershoot=\dimen126
+\multicolundershoot=\dimen127
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\multicol@sort@counter=\count118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen128
+\captionmargin@=\dimen129
+\captionwidth=\dimen130
+\caption@tempdima=\dimen131
+\caption@indent=\dimen132
+\caption@parindent=\dimen133
+\caption@hangindent=\dimen134
+)
+\c@ContinuedFloat=\count119
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen135
+\lightrulewidth=\dimen136
+\cmidrulewidth=\dimen137
+\belowrulesep=\dimen138
+\belowbottomsep=\dimen139
+\aboverulesep=\dimen140
+\abovetopsep=\dimen141
+\cmidrulesep=\dimen142
+\cmidrulekern=\dimen143
+\defaultaddspace=\dimen144
+\@cmidla=\count120
+\@cmidlb=\count121
+\@aboverulesep=\dimen145
+\@belowrulesep=\dimen146
+\@thisruleclass=\count122
+\@lastruleclass=\count123
+\@thisrulewidth=\dimen147
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count124
+\float@exts=\toks18
+\float@box=\box54
+\@float@everytoks=\toks19
+\@floatcapt=\box55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count125
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count126
+\calc@Bcount=\count127
+\calc@Adimen=\dimen150
+\calc@Bdimen=\dimen151
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count128
+\calc@Cskip=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box56
+\AM@toc@title=\toks20
+\c@AM@survey=\count129
+\AM@templatesizebox=\box57
+)
+(./abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip50
+\absleftindent=\skip51
+\absrightindent=\skip52
+\absparindent=\skip53
+\absparsep=\skip54
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen152
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count130
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count131
+\leftroot@=\count132
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count133
+\DOTSCASE@=\count134
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count135
+\c@MaxMatrixCols=\count136
+\dotsspace@=\muskip11
+\c@parentequation=\count137
+\dspbrk@lvl=\count138
+\tag@help=\toks22
+\row@=\count139
+\column@=\count140
+\maxfields@=\count141
+\andhelp@=\toks23
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks24
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (./titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box60
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
+\ttl@toksa=\toks26
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip60
+\f@ncyO@elh=\skip61
+\f@ncyO@erh=\skip62
+\f@ncyO@olh=\skip63
+\f@ncyO@orh=\skip64
+\f@ncyO@elf=\skip65
+\f@ncyO@erf=\skip66
+\f@ncyO@olf=\skip67
+\f@ncyO@orf=\skip68
+)
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 34.
+
+(./BINP25_report2.aux)
+\openout1 = `BINP25_report2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Try loading font information for T1+pplx on input line 66.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplx.fd
+File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
+)
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 66.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count142
+)
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
+
+(./BINP25_report2.out) (./BINP25_report2.out)
+\@outlinefile=\write3
+\openout3 = `BINP25_report2.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 66.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+\c@lstlisting=\count143
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(91.04881pt, 608.5238pt, 95.39737pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=608.5238pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-18.22118pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=20.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen166
+\scratchbox=\box62
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen167
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <16> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 69.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 69.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 69.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 69.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 69.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 69.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 76.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 83.
+(./BINP25_report2.toc [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+])
+\tf@toc=\write4
+\openout4 = `BINP25_report2.toc'.
+
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
+
+ []
+
+[3]
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 107.
+ [4]
+LaTeX Font Info:    Try loading font information for OMS+pplx on input line 114
+.
+LaTeX Font Info:    No file OMSpplx.fd. on input line 114.
+
+
+LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 114.
+
+[5] <21NoWearTimeLabeled.png, id=110, 3613.5pt x 1806.75pt>
+File: 21NoWearTimeLabeled.png Graphic file (type png)
+
+<use 21NoWearTimeLabeled.png>
+Package pdftex.def Info: 21NoWearTimeLabeled.png used on input line 123.
+(pdftex.def)             Requested size: 426.76425pt x 227.60759pt.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 124.
+ [6 <./21NoWearTimeLabeled.png>] [7]
+<exampleTorsoAnkle.png, id=127, 1199.23032pt x 677.53125pt>
+File: exampleTorsoAnkle.png Graphic file (type png)
+
+<use exampleTorsoAnkle.png>
+Package pdftex.def Info: exampleTorsoAnkle.png used on input line 135.
+(pdftex.def)             Requested size: 426.78192pt x 199.16698pt.
+
+<exampleTorsoAnkle2.png, id=128, 1215.03937pt x 666.99188pt>
+File: exampleTorsoAnkle2.png Graphic file (type png)
+
+<use exampleTorsoAnkle2.png>
+Package pdftex.def Info: exampleTorsoAnkle2.png used on input line 140.
+(pdftex.def)             Requested size: 426.79044pt x 199.16278pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 I
+       n Figure 2 and 3 one can observe the remaining baseline shifts, due t...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<bandpass_summary_example.png, id=129, 1178.15157pt x 325.215pt>
+File: bandpass_summary_example.png Graphic file (type png)
+
+<use bandpass_summary_example.png>
+Package pdftex.def Info: bandpass_summary_example.png used on input line 147.
+(pdftex.def)             Requested size: 426.79486pt x 170.72058pt.
+
+Overfull \hbox (0.74608pt too wide) in paragraph at lines 144--153
+\T1/pplx/m/n/11.25 Although the prin-ci-pals in both sum-mary deriva-tions are 
+com-monly used in ac-celerom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--153
+
+ []
+
+[8 <./exampleTorsoAnkle.png> <./exampleTorsoAnkle2.png>] [9 <./bandpass_summary
+_example.png (PNG copy)>]
+<exampleTorsoAnkle5.png, id=142, 1126.96031pt x 697.8572pt>
+File: exampleTorsoAnkle5.png Graphic file (type png)
+
+<use exampleTorsoAnkle5.png>
+Package pdftex.def Info: exampleTorsoAnkle5.png used on input line 157.
+(pdftex.def)             Requested size: 426.7877pt x 284.52603pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 B
+       aseline correction is implemented in Matlab based on a smoothing meth...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Calculating math sizes for size <11.25> on input line 163.
+[10 <./exampleTorsoAnkle5.png>]
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <11.25> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 179.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 \\I
+         n approach \textbf{A} the derived summary from the torso placed mea...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[11] <SimpleSubtracting.png, id=166, 1148.6112pt x 678.3744pt>
+File: SimpleSubtracting.png Graphic file (type png)
+
+<use SimpleSubtracting.png>
+Package pdftex.def Info: SimpleSubtracting.png used on input line 189.
+(pdftex.def)             Requested size: 426.78471pt x 227.6217pt.
+
+<bandpassJustSummary_and_A.png, id=167, 1198.4775pt x 662.475pt>
+File: bandpassJustSummary_and_A.png Graphic file (type png)
+
+<use bandpassJustSummary_and_A.png>
+Package pdftex.def Info: bandpassJustSummary_and_A.png used on input line 193.
+(pdftex.def)             Requested size: 426.78831pt x 227.61403pt.
+ [12 <./SimpleSubtracting.png> <./bandpassJustSummary_and_A.png (PNG copy)>] [1
+3]
+<subtractedIntensities.png, id=179, 1171.7376pt x 691.8648pt>
+File: subtractedIntensities.png Graphic file (type png)
+
+<use subtractedIntensities.png>
+Package pdftex.def Info: subtractedIntensities.png used on input line 202.
+(pdftex.def)             Requested size: 426.79565pt x 227.61932pt.
+
+<correctingIntensities.png, id=180, 1141.866pt x 677.4108pt>
+File: correctingIntensities.png Graphic file (type png)
+
+<use correctingIntensities.png>
+Package pdftex.def Info: correctingIntensities.png used on input line 206.
+(pdftex.def)             Requested size: 426.7874pt x 227.6188pt.
+ [14 <./subtractedIntensities.png> <./correctingIntensities.png>]
+<bandpass_summary_example_B.png, id=187, 1202.24156pt x 654.94687pt>
+File: bandpass_summary_example_B.png Graphic file (type png)
+
+<use bandpass_summary_example_B.png>
+Package pdftex.def Info: bandpass_summary_example_B.png used on input line 211.
+
+(pdftex.def)             Requested size: 426.78957pt x 227.61586pt.
+
+<bandpass_summary_example_C.png, id=188, 1190.19656pt x 657.95813pt>
+File: bandpass_summary_example_C.png Graphic file (type png)
+
+<use bandpass_summary_example_C.png>
+Package pdftex.def Info: bandpass_summary_example_C.png used on input line 215.
+
+(pdftex.def)             Requested size: 426.78148pt x 227.61826pt.
+ [15 <./bandpass_summary_example_B.png (PNG copy)> <./bandpass_summary_example_
+C.png (PNG copy)>] [16]
+<roughSimilar.png, id=200, 1767.2424pt x 664.884pt>
+File: roughSimilar.png Graphic file (type png)
+ <use roughSimilar.png>
+Package pdftex.def Info: roughSimilar.png used on input line 224.
+(pdftex.def)             Requested size: 426.7895pt x 227.61995pt.
+
+<localSimilar.png, id=201, 1721.9532pt x 665.8476pt>
+File: localSimilar.png Graphic file (type png)
+ <use localSimilar.png>
+Package pdftex.def Info: localSimilar.png used on input line 228.
+(pdftex.def)             Requested size: 426.78249pt x 227.61455pt.
+
+[17 <./roughSimilar.png> <./localSimilar.png>]
+<differences.png, id=209, 1836.6216pt x 499.1448pt>
+File: differences.png Graphic file (type png)
+ <use differences.png>
+Package pdftex.def Info: differences.png used on input line 235.
+(pdftex.def)             Requested size: 426.78592pt x 184.93964pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+ []
+
+[18 <./differences.png (PNG copy)>]
+<CorrectedIntensitiesCorrelation_result.png, id=216, 1122.594pt x 675.4836pt>
+File: CorrectedIntensitiesCorrelation_result.png Graphic file (type png)
+
+<use CorrectedIntensitiesCorrelation_result.png>
+Package pdftex.def Info: CorrectedIntensitiesCorrelation_result.png used on inp
+ut line 243.
+(pdftex.def)             Requested size: 426.7957pt x 227.62059pt.
+LaTeX Font Info:    Font shape `T1/pplx/bx/it' in size <9> not available
+(Font)              Font shape `T1/pplx/b/it' tried instead on input line 244.
+
+<approachD_second_summary.png, id=217, 1131.2664pt x 677.4108pt>
+File: approachD_second_summary.png Graphic file (type png)
+
+<use approachD_second_summary.png>
+Package pdftex.def Info: approachD_second_summary.png used on input line 248.
+(pdftex.def)             Requested size: 426.79585pt x 227.6188pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[19 <./CorrectedIntensitiesCorrelation_result.png (PNG copy)>]
+<example_approach_E.png, id=225, 1206.4272pt x 649.4664pt>
+File: example_approach_E.png Graphic file (type png)
+
+<use example_approach_E.png>
+Package pdftex.def Info: example_approach_E.png used on input line 258.
+(pdftex.def)             Requested size: 426.78436pt x 227.62386pt.
+ [20 <./approachD_second_summary.png (PNG copy)>]
+<SubtractedIntensitiesPA.png, id=231, 1121.6304pt x 673.5564pt>
+File: SubtractedIntensitiesPA.png Graphic file (type png)
+
+<use SubtractedIntensitiesPA.png>
+Package pdftex.def Info: SubtractedIntensitiesPA.png used on input line 266.
+(pdftex.def)             Requested size: 426.78877pt x 199.17018pt.
+ [21 <./example_approach_E.png (PNG copy)>]
+<CorrectedIntensitiesPA.png, id=237, 1123.5576pt x 671.6292pt>
+File: CorrectedIntensitiesPA.png Graphic file (type png)
+
+<use CorrectedIntensitiesPA.png>
+Package pdftex.def Info: CorrectedIntensitiesPA.png used on input line 271.
+(pdftex.def)             Requested size: 426.78488pt x 199.16396pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./SubtractedIntensitiesPA.png (PNG copy)>]
+<CorrectedCorrelationResultPA.png, id=243, 1117.776pt x 661.0296pt>
+File: CorrectedCorrelationResultPA.png Graphic file (type png)
+
+<use CorrectedCorrelationResultPA.png>
+Package pdftex.def Info: CorrectedCorrelationResultPA.png used on input line 27
+6.
+(pdftex.def)             Requested size: 426.78894pt x 213.38971pt.
+
+<approachEPA.png, id=244, 1113.9216pt x 670.6656pt>
+File: approachEPA.png Graphic file (type png)
+ <use approachEPA.png>
+Package pdftex.def Info: approachEPA.png used on input line 281.
+(pdftex.def)             Requested size: 426.796pt x 213.38934pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 \\\\
+          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.285 A
+       fter each approach, the extraction of PA reflects the consequences of...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[23 <./CorrectedIntensitiesPA.png (PNG copy)> <./CorrectedCorrelationResultPA.p
+ng (PNG copy)>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 W
+       hen analysing the difference between the two types of summary derivat...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[24 <./approachEPA.png (PNG copy)>] [25]
+<PAAIBM.jpg, id=261, 481.8pt x 481.8pt>
+File: PAAIBM.jpg Graphic file (type jpg)
+ <use PAAIBM.jpg>
+Package pdftex.def Info: PAAIBM.jpg used on input line 318.
+(pdftex.def)             Requested size: 256.0806pt x 256.0806pt.
+
+<boxplotPABC.jpg, id=262, 481.8pt x 481.8pt>
+File: boxplotPABC.jpg Graphic file (type jpg)
+ <use boxplotPABC.jpg>
+Package pdftex.def Info: boxplotPABC.jpg used on input line 324.
+(pdftex.def)             Requested size: 199.16399pt x 199.16399pt.
+
+<corrPABPACIBM.png, id=263, 941.5175pt x 455.7025pt>
+File: corrPABPACIBM.png Graphic file (type png)
+ <use corrPABPACIBM.png>
+Package pdftex.def Info: corrPABPACIBM.png used on input line 330.
+(pdftex.def)             Requested size: 398.33667pt x 199.17465pt.
+
+<scatterplotPADIBM.jpg, id=264, 481.8pt x 481.8pt>
+File: scatterplotPADIBM.jpg Graphic file (type jpg)
+ <use scatterplotPADIBM.jpg>
+Package pdftex.def Info: scatterplotPADIBM.jpg used on input line 337.
+(pdftex.def)             Requested size: 199.16399pt x 199.16399pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<scatterplotPAEIBM.jpg, id=269, 481.8pt x 481.8pt>
+File: scatterplotPAEIBM.jpg Graphic file (type jpg)
+ <use scatterplotPAEIBM.jpg>
+Package pdftex.def Info: scatterplotPAEIBM.jpg used on input line 344.
+(pdftex.def)             Requested size: 190.62871pt x 190.62871pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--348
+
+ []
+
+[27 <./PAAIBM.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28 <./boxplotPABC.jpg>] [29 <./corrPABPACIBM.png (PNG copy)>] [30 <./scatterpl
+otPADIBM.jpg> <./scatterplotPAEIBM.jpg>]
+Overfull \hbox (0.7636pt too wide) in paragraph at lines 387--387
+[]\T1/pplx/m/n/5 overall
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/pplx/m/n/5 sub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/pplx/m/n/5 inside of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/pplx/m/n/5 a sleep-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/pplx/m/n/5 inside of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/pplx/m/n/5 a sleep-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/pplx/m/n/5 inside of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/pplx/m/n/5 a feed-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/pplx/m/n/5 or end of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/pplx/m/n/5 a feed-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/pplx/m/n/5 not in or
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 387--387
+\T1/pplx/m/n/5 or sleep-ing
+ []
+
+
+Overfull \hbox (8.66605pt too wide) in paragraph at lines 385--393
+ [][] 
+ []
+
+<1moved.png, id=291, 1422.2736pt x 805.0878pt>
+File: 1moved.png Graphic file (type png)
+ <use 1moved.png>
+Package pdftex.def Info: 1moved.png used on input line 398.
+(pdftex.def)             Requested size: 426.79388pt x 170.70728pt.
+ [31]
+<4moved.png, id=298, 2335.0437pt x 1246.6575pt>
+File: 4moved.png Graphic file (type png)
+ <use 4moved.png>
+Package pdftex.def Info: 4moved.png used on input line 403.
+(pdftex.def)             Requested size: 426.77437pt x 199.16492pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<12PA.png, id=299, 1443.9546pt x 810.8694pt>
+File: 12PA.png Graphic file (type png)
+ <use 12PA.png>
+Package pdftex.def Info: 12PA.png used on input line 422.
+(pdftex.def)             Requested size: 426.77814pt x 199.16583pt.
+ [32 <./1moved.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33 <./4moved.png>] [34 <./12PA.png>] [35] [36]
+Underfull \hbox (badness 1077) in paragraph at lines 483--485
+[]\T1/pplx/m/n/11.25 van Hees VT, Ren-strom F, Wright A, Grad-mark A, Catt M, e
+t al (2011)
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 483--485
+\T1/pplx/m/n/11.25 Es-ti-ma-tion of Daily En-ergy Ex-pen-di-ture in Preg-nant a
+nd Non-Pregnant
+ []
+
+[37]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.531 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.532 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.533 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.534 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.536 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.537 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.538 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.539 \Large
+            {\textbf{Supplements}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=343, 845.1575pt x 597.23125pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf>
+Package pdftex.def Info: friendly_84P077.pdf used on input line 543.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
+
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+File: friendly_84P077.pdf Graphic file (type pdf)
+<use friendly_84P077.pdf>
+Package pdftex.def Info: friendly_84P077.pdf used on input line 543.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
+
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--543
+
+ []
+
+[38]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=354, page=1, 845.1575pt x 597.23125pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 1>
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 1>
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 1>
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 1>
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 1>
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+ [39 <./friendly_84P077.pdf, page is rotated 90 degrees>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=360, page=2, 845.1575pt x 597.23125pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 2>
+Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 2>
+Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 2>
+Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+ [40 <./friendly_84P077.pdf, page is rotated 90 degrees>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=366, page=3, 845.1575pt x 597.23125pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 3>
+Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 3>
+Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 3>
+Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 543.
+(pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
+ [41 <./friendly_84P077.pdf, page is rotated 90 degrees>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=372, page=4, 597.23125pt x 845.1575pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 4>
+Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 4>
+Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 4>
+Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+ [42 <./friendly_84P077.pdf>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=378, page=5, 597.23125pt x 845.1575pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 5>
+Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 5>
+Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 5>
+Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+ [43 <./friendly_84P077.pdf>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=385, page=6, 597.23125pt x 845.1575pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 6>
+Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 6>
+Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 6>
+Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+ [44 <./friendly_84P077.pdf>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=391, page=7, 597.23125pt x 845.1575pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 7>
+Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 7>
+Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 7>
+Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+ [45 <./friendly_84P077.pdf>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=397, page=8, 597.23125pt x 845.1575pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 8>
+Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 8>
+Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 8>
+Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+ [46 <./friendly_84P077.pdf>]
+
+pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<friendly_84P077.pdf, id=403, page=9, 597.23125pt x 845.1575pt>
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 9>
+Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+ <use friendly_84P077.pdf, page 9>
+Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+File: friendly_84P077.pdf Graphic file (type pdf)
+
+<use friendly_84P077.pdf, page 9>
+Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 543.
+(pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
+ [47 <./friendly_84P077.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 544.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 544.
+
+(./BINP25_report2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 544.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 544.
+Package rerunfilecheck Info: File `BINP25_report2.out' has not changed.
+(rerunfilecheck)             Checksum: 7A657DB4823F13D07F3475C59255A1ED;859.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 544.
+ ) 
+Here is how much of TeX's memory you used:
+ 11986 strings out of 495028
+ 182798 string characters out of 6181497
+ 314383 words of memory out of 5000000
+ 14686 multiletter control sequences out of 15000+600000
+ 82149 words of font info for 250 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 43i,18n,46p,2306b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/mathpazo/fplmr.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on BINP25_report2.pdf (47 pages, 3940943 bytes).
+PDF statistics:
+ 469 PDF objects out of 1000 (max. 8388607)
+ 353 compressed objects within 4 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 54590 words of extra memory for PDF output out of 61914 (max. 10000000)
+
