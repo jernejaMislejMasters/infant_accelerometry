@@ -189,3 +189,54 @@ While the resulting proportion of time the infant was in PA, based on approach \
 \end{figure}
 \\
 
+
+Ideally, the approach for correcting caretakers contributing accelerations should only correct periods when the infant is being moved. Two types of summary derivation and different approaches can be analyzed further to asses which case gives the best results.
+
+
+
+
+From above boxplots and table 1, it is clear that approach A is inappropriate, since both descriptive statistics increase. Approaches B and D have more potential to be correct, since the descriptive statistics decrease as expected. 
+Boxplots and the total proportions of increased or decreased descriptive statistics, continue to show substantial differences between the two types of summary derivation. These differences have high variability between the subjects and the differently placed monitors. Comparison and further processing of different types of summary derivations would be impaired, therefor only the first type is analyzed further, due to overall better results. 
+
+
+a simple threshold for SD of contributing acceleration is set empirically to 0.006 g. 
+
+
+
+
+
+
+
+
+
+Another issue is the high variability between the subjects, which is also observed in the previous steps of analysis. This overall high variability present between the subjects, between the activities and between the accelerometers might be too high for the size of the dataset. For example, the diary noted, sleeping and feeding proportions had high variability between the subjects, example in Table 5, raising doubt if validation over 29 subjects for 33 hours is possible.
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+over all subjects & sleeping time & feeding time \\ \hline
+mean   & 63.00\%  & 9.63\%  \\ \hline
+min   & 38.99\%  & 3.30\%  \\ \hline
+max   & 81.60\%  & 27.01\% \\ \hline
+SD   & 9.39\%  & 6.01\%  \\ \hline
+\end{tabular}
+\caption{Proportion of sleeping and feeding time overall subjects with a diary available.}
+\end{table}
+
+
+
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+  & approach C & approach D & approach E \\ \hline
+mean & 48.12\% & 45.87\% & 35.48\% \\ \hline
+min & 30.60\% & 23.98\% & 14.21\% \\ \hline
+max & 61.51\% & 61.13\% & 59.02\% \\ \hline
+SD & 10.83\% & 09.02\% & 12.71\% \\ \hline
+\end{tabular}
+\caption{Proportions of PA occurring while infant awake, after different approaches.}
+\end{table}
+\\
+\\One could also question whether the detection of contributing accelerations is possible with the size of the dataset and the amount of variability. This is discussed in the next section.

@@ -1,0 +1,147 @@
+jerneja@X555LAB ~/Desktop/UNI/mstrs/CRC_project/purple/infant_PA_from_accelerometer/proccessed_data/final_analysis/results/PA_indexes $ python ../../../../code/PA_validation.py _PA_low_indexes_C
+1. infant:
+PA and diary notated sleep:
+	79.09% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	20.91% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+2. infant:
+PA and diary notated sleep:
+	45.98% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	54.02% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+3. infant:
+PA and diary notated sleep:
+	40.85% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	59.15% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+4. infant:
+PA and diary notated sleep:
+	55.66% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	44.34% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+5. infant:
+PA and diary notated sleep:
+	55.81% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	44.19% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+6. infant:
+PA and diary notated sleep:
+	61.5% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	38.5% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+7. infant:
+PA and diary notated sleep:
+	68.91% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	31.09% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+8. infant:
+PA and diary notated sleep:
+	79.56% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	20.44% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+9. infant:
+PA and diary notated sleep:
+	80.78% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	19.22% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+10. infant:
+PA and diary notated sleep:
+	54.88% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	45.12% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+11. infant:
+PA and diary notated sleep:
+	59.25% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	40.75% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+12. infant:
+PA and diary notated sleep:
+	53.63% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	46.37% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+13. infant:
+PA and diary notated sleep:
+	58.41% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	41.59% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+14. infant:
+PA and diary notated sleep:
+	47.17% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	52.83% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+15. infant:
+PA and diary notated sleep:
+	71.19% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	28.81% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+16. infant:
+PA and diary notated sleep:
+	73.47% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	26.53% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+17. infant:
+PA and diary notated sleep:
+	53.31% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	46.69% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+18. infant:
+PA and diary notated sleep:
+	55.93% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	44.07% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+19. infant:
+PA and diary notated sleep:
+	38.02% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	61.98% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+21. infant:
+PA and diary notated sleep:
+	49.1% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	50.9% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+22. infant:
+PA and diary notated sleep:
+	50.26% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	49.74% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+23. infant:
+PA and diary notated sleep:
+	76.23% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	23.77% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+24. infant:
+PA and diary notated sleep:
+	75.31% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	24.69% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+25. infant:
+PA and diary notated sleep:
+	48.93% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	51.07% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+26. infant:
+PA and diary notated sleep:
+	51.33% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	48.67% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+27. infant:
+PA and diary notated sleep:
+	62.23% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	37.77% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+28. infant:
+PA and diary notated sleep:
+	69.02% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	30.98% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+29. infant:
+PA and diary notated sleep:
+	70.51% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	29.49% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+30. infant:
+PA and diary notated sleep:
+	48.54% of time detected as infants PA, fell WHITIN a sleeping block noted in the diary
+	51.46% of time detected as infants PA, fell OUTSIDE a sleeping block noted in the diary
+
+

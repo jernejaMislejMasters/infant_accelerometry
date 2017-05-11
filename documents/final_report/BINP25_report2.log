@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.29)  19 DEC 2016 11:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.29)  10 MAY 2017 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -428,19 +428,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-) (./titlesec.sty
+) (./multirow.sty
+\bigstrutjot=\dimen161
+)
+(./titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box60
 \beforetitleunit=\skip58
 \aftertitleunit=\skip59
-\ttl@plus=\dimen161
-\ttl@minus=\dimen162
+\ttl@plus=\dimen162
+\ttl@minus=\dimen163
 \ttl@toksa=\toks26
-\titlewidth=\dimen163
-\titlewidthlast=\dimen164
-\titlewidthfirst=\dimen165
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\titlewidth=\dimen164
+\titlewidthlast=\dimen165
+\titlewidthfirst=\dimen166
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip60
 \f@ncyO@elh=\skip61
 \f@ncyO@erh=\skip62
@@ -553,13 +555,13 @@ Package caption Info: End \AtBeginDocument code.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count144
-\scratchdimen=\dimen166
+\scratchdimen=\dimen167
 \scratchbox=\box62
 \nofMPsegments=\count145
 \nofMParguments=\count146
 \everyMPshowfont=\toks27
 \MPscratchCnt=\count147
-\MPscratchDim=\dimen167
+\MPscratchDim=\dimen168
 \MPnumerator=\count148
 \makeMPintoPDFobject=\count149
 \everyMPtoPDFconversion=\toks28
@@ -661,27 +663,42 @@ LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 114.
 
-[5] <21NoWearTimeLabeled.png, id=110, 3613.5pt x 1806.75pt>
+[5] <21NoWearTimeLabeled.png, id=117, 3613.5pt x 1806.75pt>
 File: 21NoWearTimeLabeled.png Graphic file (type png)
 
 <use 21NoWearTimeLabeled.png>
-Package pdftex.def Info: 21NoWearTimeLabeled.png used on input line 123.
+Package pdftex.def Info: 21NoWearTimeLabeled.png used on input line 121.
 (pdftex.def)             Requested size: 426.76425pt x 227.60759pt.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 124.
- [6 <./21NoWearTimeLabeled.png>] [7]
-<exampleTorsoAnkle.png, id=127, 1199.23032pt x 677.53125pt>
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 122.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 B
+       ased on trial and examination of the results and the previously set c...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[6 <./21NoWearTimeLabeled.png>] [7]
+<exampleTorsoAnkle.png, id=135, 1199.23032pt x 677.53125pt>
 File: exampleTorsoAnkle.png Graphic file (type png)
 
 <use exampleTorsoAnkle.png>
-Package pdftex.def Info: exampleTorsoAnkle.png used on input line 135.
+Package pdftex.def Info: exampleTorsoAnkle.png used on input line 137.
 (pdftex.def)             Requested size: 426.78192pt x 199.16698pt.
 
-<exampleTorsoAnkle2.png, id=128, 1215.03937pt x 666.99188pt>
+<exampleTorsoAnkle2.png, id=136, 1215.03937pt x 666.99188pt>
 File: exampleTorsoAnkle2.png Graphic file (type png)
 
 <use exampleTorsoAnkle2.png>
-Package pdftex.def Info: exampleTorsoAnkle2.png used on input line 140.
+Package pdftex.def Info: exampleTorsoAnkle2.png used on input line 142.
 (pdftex.def)             Requested size: 426.79044pt x 199.16278pt.
 
 
@@ -691,37 +708,37 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.144 I
+l.146 I
        n Figure 2 and 3 one can observe the remaining baseline shifts, due t...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<bandpass_summary_example.png, id=129, 1178.15157pt x 325.215pt>
+<bandpass_summary_example.png, id=137, 1178.15157pt x 325.215pt>
 File: bandpass_summary_example.png Graphic file (type png)
 
 <use bandpass_summary_example.png>
-Package pdftex.def Info: bandpass_summary_example.png used on input line 147.
+Package pdftex.def Info: bandpass_summary_example.png used on input line 149.
 (pdftex.def)             Requested size: 426.79486pt x 170.72058pt.
 
-Overfull \hbox (0.74608pt too wide) in paragraph at lines 144--153
+Overfull \hbox (0.74608pt too wide) in paragraph at lines 146--155
 \T1/pplx/m/n/11.25 Although the prin-ci-pals in both sum-mary deriva-tions are 
 com-monly used in ac-celerom-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--153
+Underfull \hbox (badness 10000) in paragraph at lines 146--155
 
  []
 
 [8 <./exampleTorsoAnkle.png> <./exampleTorsoAnkle2.png>] [9 <./bandpass_summary
 _example.png (PNG copy)>]
-<exampleTorsoAnkle5.png, id=142, 1126.96031pt x 697.8572pt>
+<exampleTorsoAnkle5.png, id=150, 1126.96031pt x 697.8572pt>
 File: exampleTorsoAnkle5.png Graphic file (type png)
 
 <use exampleTorsoAnkle5.png>
-Package pdftex.def Info: exampleTorsoAnkle5.png used on input line 157.
+Package pdftex.def Info: exampleTorsoAnkle5.png used on input line 159.
 (pdftex.def)             Requested size: 426.7877pt x 284.52603pt.
 
 
@@ -731,7 +748,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161 \\
+l.163 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -744,17 +761,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 B
+l.164 B
        aseline correction is implemented in Matlab based on a smoothing meth...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Calculating math sizes for size <11.25> on input line 163.
-[10 <./exampleTorsoAnkle5.png>]
+LaTeX Font Info:    Calculating math sizes for size <11.25> on input line 165.
+[10 <./exampleTorsoAnkle5.png>] [11]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <11.25> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 179.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 181.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -763,43 +780,47 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.185 \\I
+l.187 \\I
          n approach \textbf{A} the derived summary from the torso placed mea...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[11] <SimpleSubtracting.png, id=166, 1148.6112pt x 678.3744pt>
+<SimpleSubtracting.png, id=177, 1148.6112pt x 678.3744pt>
 File: SimpleSubtracting.png Graphic file (type png)
 
 <use SimpleSubtracting.png>
-Package pdftex.def Info: SimpleSubtracting.png used on input line 189.
+Package pdftex.def Info: SimpleSubtracting.png used on input line 190.
 (pdftex.def)             Requested size: 426.78471pt x 227.6217pt.
 
-<bandpassJustSummary_and_A.png, id=167, 1198.4775pt x 662.475pt>
+<bandpassJustSummary_and_A.png, id=178, 1198.4775pt x 662.475pt>
 File: bandpassJustSummary_and_A.png Graphic file (type png)
 
 <use bandpassJustSummary_and_A.png>
-Package pdftex.def Info: bandpassJustSummary_and_A.png used on input line 193.
+Package pdftex.def Info: bandpassJustSummary_and_A.png used on input line 194.
 (pdftex.def)             Requested size: 426.78831pt x 227.61403pt.
- [12 <./SimpleSubtracting.png> <./bandpassJustSummary_and_A.png (PNG copy)>] [1
-3]
-<subtractedIntensities.png, id=179, 1171.7376pt x 691.8648pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./SimpleSubtracting.png>]
+<subtractedIntensities.png, id=184, 1171.7376pt x 691.8648pt>
 File: subtractedIntensities.png Graphic file (type png)
 
 <use subtractedIntensities.png>
 Package pdftex.def Info: subtractedIntensities.png used on input line 202.
-(pdftex.def)             Requested size: 426.79565pt x 227.61932pt.
+(pdftex.def)             Requested size: 426.79565pt x 213.3885pt.
 
-<correctingIntensities.png, id=180, 1141.866pt x 677.4108pt>
+<correctingIntensities.png, id=185, 1141.866pt x 677.4108pt>
 File: correctingIntensities.png Graphic file (type png)
 
 <use correctingIntensities.png>
 Package pdftex.def Info: correctingIntensities.png used on input line 206.
-(pdftex.def)             Requested size: 426.7874pt x 227.6188pt.
- [14 <./subtractedIntensities.png> <./correctingIntensities.png>]
-<bandpass_summary_example_B.png, id=187, 1202.24156pt x 654.94687pt>
+(pdftex.def)             Requested size: 426.7874pt x 213.39586pt.
+ [13 <./bandpassJustSummary_and_A.png (PNG copy)>] [14 <./subtractedIntensities
+.png> <./correctingIntensities.png>]
+<bandpass_summary_example_B.png, id=198, 1202.24156pt x 654.94687pt>
 File: bandpass_summary_example_B.png Graphic file (type png)
 
 <use bandpass_summary_example_B.png>
@@ -807,7 +828,7 @@ Package pdftex.def Info: bandpass_summary_example_B.png used on input line 211.
 
 (pdftex.def)             Requested size: 426.78957pt x 227.61586pt.
 
-<bandpass_summary_example_C.png, id=188, 1190.19656pt x 657.95813pt>
+<bandpass_summary_example_C.png, id=199, 1190.19656pt x 657.95813pt>
 File: bandpass_summary_example_C.png Graphic file (type png)
 
 <use bandpass_summary_example_C.png>
@@ -816,45 +837,45 @@ Package pdftex.def Info: bandpass_summary_example_C.png used on input line 215.
 (pdftex.def)             Requested size: 426.78148pt x 227.61826pt.
  [15 <./bandpass_summary_example_B.png (PNG copy)> <./bandpass_summary_example_
 C.png (PNG copy)>] [16]
-<roughSimilar.png, id=200, 1767.2424pt x 664.884pt>
+<roughSimilar.png, id=211, 1767.2424pt x 664.884pt>
 File: roughSimilar.png Graphic file (type png)
  <use roughSimilar.png>
-Package pdftex.def Info: roughSimilar.png used on input line 224.
+Package pdftex.def Info: roughSimilar.png used on input line 223.
 (pdftex.def)             Requested size: 426.7895pt x 227.61995pt.
 
-<localSimilar.png, id=201, 1721.9532pt x 665.8476pt>
+<localSimilar.png, id=212, 1721.9532pt x 665.8476pt>
 File: localSimilar.png Graphic file (type png)
  <use localSimilar.png>
-Package pdftex.def Info: localSimilar.png used on input line 228.
+Package pdftex.def Info: localSimilar.png used on input line 227.
 (pdftex.def)             Requested size: 426.78249pt x 227.61455pt.
 
 [17 <./roughSimilar.png> <./localSimilar.png>]
-<differences.png, id=209, 1836.6216pt x 499.1448pt>
+<differences.png, id=220, 1836.6216pt x 499.1448pt>
 File: differences.png Graphic file (type png)
  <use differences.png>
-Package pdftex.def Info: differences.png used on input line 235.
+Package pdftex.def Info: differences.png used on input line 234.
 (pdftex.def)             Requested size: 426.78592pt x 184.93964pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--238
+Underfull \hbox (badness 10000) in paragraph at lines 231--237
 
  []
 
 [18 <./differences.png (PNG copy)>]
-<CorrectedIntensitiesCorrelation_result.png, id=216, 1122.594pt x 675.4836pt>
+<CorrectedIntensitiesCorrelation_result.png, id=227, 1122.594pt x 675.4836pt>
 File: CorrectedIntensitiesCorrelation_result.png Graphic file (type png)
 
 <use CorrectedIntensitiesCorrelation_result.png>
 Package pdftex.def Info: CorrectedIntensitiesCorrelation_result.png used on inp
-ut line 243.
+ut line 242.
 (pdftex.def)             Requested size: 426.7957pt x 227.62059pt.
 LaTeX Font Info:    Font shape `T1/pplx/bx/it' in size <9> not available
-(Font)              Font shape `T1/pplx/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/pplx/b/it' tried instead on input line 243.
 
-<approachD_second_summary.png, id=217, 1131.2664pt x 677.4108pt>
+<approachD_second_summary.png, id=228, 1131.2664pt x 677.4108pt>
 File: approachD_second_summary.png Graphic file (type png)
 
 <use approachD_second_summary.png>
-Package pdftex.def Info: approachD_second_summary.png used on input line 248.
+Package pdftex.def Info: approachD_second_summary.png used on input line 247.
 (pdftex.def)             Requested size: 426.79585pt x 227.6188pt.
 
 
@@ -867,54 +888,46 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252 
-      
+l.251 \newpage
+              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [19 <./CorrectedIntensitiesCorrelation_result.png (PNG copy)>]
-<example_approach_E.png, id=225, 1206.4272pt x 649.4664pt>
+<example_approach_E.png, id=236, 1206.4272pt x 649.4664pt>
 File: example_approach_E.png Graphic file (type png)
 
 <use example_approach_E.png>
-Package pdftex.def Info: example_approach_E.png used on input line 258.
+Package pdftex.def Info: example_approach_E.png used on input line 256.
 (pdftex.def)             Requested size: 426.78436pt x 227.62386pt.
  [20 <./approachD_second_summary.png (PNG copy)>]
-<SubtractedIntensitiesPA.png, id=231, 1121.6304pt x 673.5564pt>
+[21 <./example_approach_E.png (PNG copy)>]
+<SubtractedIntensitiesPA.png, id=247, 1121.6304pt x 673.5564pt>
 File: SubtractedIntensitiesPA.png Graphic file (type png)
 
 <use SubtractedIntensitiesPA.png>
-Package pdftex.def Info: SubtractedIntensitiesPA.png used on input line 266.
-(pdftex.def)             Requested size: 426.78877pt x 199.17018pt.
- [21 <./example_approach_E.png (PNG copy)>]
-<CorrectedIntensitiesPA.png, id=237, 1123.5576pt x 671.6292pt>
+Package pdftex.def Info: SubtractedIntensitiesPA.png used on input line 264.
+(pdftex.def)             Requested size: 426.78877pt x 227.61867pt.
+
+<CorrectedIntensitiesPA.png, id=248, 1119.7032pt x 656.2116pt>
 File: CorrectedIntensitiesPA.png Graphic file (type png)
 
 <use CorrectedIntensitiesPA.png>
-Package pdftex.def Info: CorrectedIntensitiesPA.png used on input line 271.
-(pdftex.def)             Requested size: 426.78488pt x 199.16396pt.
+Package pdftex.def Info: CorrectedIntensitiesPA.png used on input line 269.
+(pdftex.def)             Requested size: 426.79012pt x 227.61482pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [22 <./SubtractedIntensitiesPA.png (PNG copy)>]
-<CorrectedCorrelationResultPA.png, id=243, 1117.776pt x 661.0296pt>
+<CorrectedCorrelationResultPA.png, id=254, 1121.6304pt x 660.066pt>
 File: CorrectedCorrelationResultPA.png Graphic file (type png)
 
 <use CorrectedCorrelationResultPA.png>
 Package pdftex.def Info: CorrectedCorrelationResultPA.png used on input line 27
-6.
-(pdftex.def)             Requested size: 426.78894pt x 213.38971pt.
-
-<approachEPA.png, id=244, 1113.9216pt x 670.6656pt>
-File: approachEPA.png Graphic file (type png)
- <use approachEPA.png>
-Package pdftex.def Info: approachEPA.png used on input line 281.
-(pdftex.def)             Requested size: 426.796pt x 213.38934pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+4.
+(pdftex.def)             Requested size: 426.78877pt x 227.62228pt.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -923,7 +936,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.284 \\\\
+l.277 \\\\
           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -936,15 +949,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 A
-       fter each approach, the extraction of PA reflects the consequences of...
-
+l.278 \begin
+            {figure}[h!]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+<approachEPA.png, id=255, 1129.3392pt x 669.702pt>
+File: approachEPA.png Graphic file (type png)
+ <use approachEPA.png>
+Package pdftex.def Info: approachEPA.png used on input line 279.
+(pdftex.def)             Requested size: 426.79253pt x 227.62413pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [23 <./CorrectedIntensitiesPA.png (PNG copy)> <./CorrectedCorrelationResultPA.p
-ng (PNG copy)>]
+ng (PNG copy)>] [24 <./approachEPA.png (PNG copy)>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -952,168 +973,421 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.295 W
-       hen analysing the difference between the two types of summary derivat...
+l.292 A
+       ll together 12 out of 30 infants had non-wear time detected on the to...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[24 <./approachEPA.png (PNG copy)>] [25]
-<PAAIBM.jpg, id=261, 481.8pt x 481.8pt>
-File: PAAIBM.jpg Graphic file (type jpg)
- <use PAAIBM.jpg>
-Package pdftex.def Info: PAAIBM.jpg used on input line 318.
-(pdftex.def)             Requested size: 256.0806pt x 256.0806pt.
+<final_violplot_SD.png, id=267, 1545.775pt x 751.80875pt>
+File: final_violplot_SD.png Graphic file (type png)
 
-<boxplotPABC.jpg, id=262, 481.8pt x 481.8pt>
-File: boxplotPABC.jpg Graphic file (type jpg)
- <use boxplotPABC.jpg>
-Package pdftex.def Info: boxplotPABC.jpg used on input line 324.
-(pdftex.def)             Requested size: 199.16399pt x 199.16399pt.
-
-<corrPABPACIBM.png, id=263, 941.5175pt x 455.7025pt>
-File: corrPABPACIBM.png Graphic file (type png)
- <use corrPABPACIBM.png>
-Package pdftex.def Info: corrPABPACIBM.png used on input line 330.
-(pdftex.def)             Requested size: 398.33667pt x 199.17465pt.
-
-<scatterplotPADIBM.jpg, id=264, 481.8pt x 481.8pt>
-File: scatterplotPADIBM.jpg Graphic file (type jpg)
- <use scatterplotPADIBM.jpg>
-Package pdftex.def Info: scatterplotPADIBM.jpg used on input line 337.
-(pdftex.def)             Requested size: 199.16399pt x 199.16399pt.
+<use final_violplot_SD.png>
+Package pdftex.def Info: final_violplot_SD.png used on input line 296.
+(pdftex.def)             Requested size: 426.77588pt x 227.62073pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[25] <final_violplot_AI.png, id=273, 1545.775pt x 751.80875pt>
+File: final_violplot_AI.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use final_violplot_AI.png>
+Package pdftex.def Info: final_violplot_AI.png used on input line 301.
+(pdftex.def)             Requested size: 426.77588pt x 227.62073pt.
 
-[26]
+<final_proportions_boxplot.png, id=274, 1756.5625pt x 752.8125pt>
+File: final_proportions_boxplot.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use final_proportions_boxplot.png>
+Package pdftex.def Info: final_proportions_boxplot.png used on input line 306.
+(pdftex.def)             Requested size: 426.78339pt x 227.62596pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<scatterplotPAEIBM.jpg, id=269, 481.8pt x 481.8pt>
-File: scatterplotPAEIBM.jpg Graphic file (type jpg)
- <use scatterplotPAEIBM.jpg>
-Package pdftex.def Info: scatterplotPAEIBM.jpg used on input line 344.
-(pdftex.def)             Requested size: 190.62871pt x 190.62871pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 341--348
-
- []
-
-[27 <./PAAIBM.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[28 <./boxplotPABC.jpg>] [29 <./corrPABPACIBM.png (PNG copy)>] [30 <./scatterpl
-otPADIBM.jpg> <./scatterplotPAEIBM.jpg>]
-Overfull \hbox (0.7636pt too wide) in paragraph at lines 387--387
+[26 <./final_violplot_SD.png (PNG copy)> <./final_violplot_AI.png (PNG copy)>]
+<result_approach_A_AI_boxplot.png, id=281, 1818.795pt x 1003.75pt>
+File: result_approach_A_AI_boxplot.png Graphic file (type png)
+
+<use result_approach_A_AI_boxplot.png>
+Package pdftex.def Info: result_approach_A_AI_boxplot.png used on input line 31
+3.
+(pdftex.def)             Requested size: 426.77858pt x 241.83919pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <./final_proportions_boxplot.png (PNG copy)>]
+<result_approach_A_SD_boxplot.png, id=287, 1818.795pt x 1003.75pt>
+File: result_approach_A_SD_boxplot.png Graphic file (type png)
+
+<use result_approach_A_SD_boxplot.png>
+Package pdftex.def Info: result_approach_A_SD_boxplot.png used on input line 31
+8.
+(pdftex.def)             Requested size: 426.77858pt x 241.83919pt.
+
+<result_approach_C_AI_boxplot.png, id=288, 1818.795pt x 1003.75pt>
+File: result_approach_C_AI_boxplot.png Graphic file (type png)
+
+<use result_approach_C_AI_boxplot.png>
+Package pdftex.def Info: result_approach_C_AI_boxplot.png used on input line 32
+3.
+(pdftex.def)             Requested size: 426.77858pt x 241.83919pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28 <./result_approach_A_AI_boxplot.png (PNG copy)> <./result_approach_A_SD_box
+plot.png>] <result_approach_C_SD_boxplot.png, id=296, 1818.795pt x 1003.75pt>
+File: result_approach_C_SD_boxplot.png Graphic file (type png)
+
+<use result_approach_C_SD_boxplot.png>
+Package pdftex.def Info: result_approach_C_SD_boxplot.png used on input line 32
+8.
+(pdftex.def)             Requested size: 426.77858pt x 241.83919pt.
+
+<result_approach_D_AI_boxplot.png, id=297, 1818.795pt x 1003.75pt>
+File: result_approach_D_AI_boxplot.png Graphic file (type png)
+
+<use result_approach_D_AI_boxplot.png>
+Package pdftex.def Info: result_approach_D_AI_boxplot.png used on input line 33
+3.
+(pdftex.def)             Requested size: 426.77858pt x 241.83919pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29 <./result_approach_C_AI_boxplot.png> <./result_approach_C_SD_boxplot.png>]
+<result_approach_D_SD_boxplot.png, id=306, 1818.795pt x 1003.75pt>
+File: result_approach_D_SD_boxplot.png Graphic file (type png)
+
+<use result_approach_D_SD_boxplot.png>
+Package pdftex.def Info: result_approach_D_SD_boxplot.png used on input line 33
+8.
+(pdftex.def)             Requested size: 426.77858pt x 241.83919pt.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.348 \multirow{2}{}{}
+                       & \multicolumn{2}{c|}{\textbf{approach A}} & \multico...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.348 \multirow{2}{}{}
+                       & \multicolumn{2}{c|}{\textbf{approach A}} & \multico...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30 <./result_approach_D_AI_boxplot.png> <./result_approach_D_SD_boxplot.png>]
+<approach_E_correlation_being_moved.png, id=316, 1445.4pt x 728.7225pt>
+File: approach_E_correlation_being_moved.png Graphic file (type png)
+
+<use approach_E_correlation_being_moved.png>
+Package pdftex.def Info: approach_E_correlation_being_moved.png used on input l
+ine 360.
+(pdftex.def)             Requested size: 426.7863pt x 241.84685pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31] [32 <./approach_E_correlation_being_moved.png (PNG copy)>]
+<norm_result_being_moved_correlation_boxplot.png, id=328, 1756.5625pt x 1003.75
+pt>
+File: norm_result_being_moved_correlation_boxplot.png Graphic file (type png)
+ <use norm_result_being_moved_correlation_boxplot.png>
+Package pdftex.def Info: norm_result_being_moved_correlation_boxplot.png used o
+n input line 368.
+(pdftex.def)             Requested size: 426.78339pt x 241.83919pt.
+
+<filter_result_being_moved_correlation_boxplot.png, id=329, 1756.5625pt x 1003.
+75pt>
+File: filter_result_being_moved_correlation_boxplot.png Graphic file (type png)
+
+ <use filter_result_being_moved_correlation_boxplot.png>
+Package pdftex.def Info: filter_result_being_moved_correlation_boxplot.png used
+ on input line 373.
+(pdftex.def)             Requested size: 426.78339pt x 241.83919pt.
+ [33 <./norm_result_being_moved_correlation_boxplot.png (PNG copy)> <./filter_r
+esult_being_moved_correlation_boxplot.png (PNG copy)>]
+<histogram_corr_coeff.png, id=336, 1756.5625pt x 1003.75pt>
+File: histogram_corr_coeff.png Graphic file (type png)
+
+<use histogram_corr_coeff.png>
+Package pdftex.def Info: histogram_corr_coeff.png used on input line 379.
+(pdftex.def)             Requested size: 426.78339pt x 241.83919pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.383 \\A
+         gain, the second type of summary derivation has slightly better res...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<IBM_vs_PA_A.png, id=337, 2385.8736pt x 695.7192pt>
+File: IBM_vs_PA_A.png Graphic file (type png)
+ <use IBM_vs_PA_A.png>
+Package pdftex.def Info: IBM_vs_PA_A.png used on input line 387.
+(pdftex.def)             Requested size: 426.78113pt x 184.93796pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[34 <./histogram_corr_coeff.png>] [35 <./IBM_vs_PA_A.png (PNG copy)>]
+<IBM_vs_PA_C.png, id=349, 2385.8736pt x 695.7192pt>
+File: IBM_vs_PA_C.png Graphic file (type png)
+ <use IBM_vs_PA_C.png>
+Package pdftex.def Info: IBM_vs_PA_C.png used on input line 394.
+(pdftex.def)             Requested size: 426.78113pt x 184.93796pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.397 \\\\
+          \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.397 \\\\\\
+            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.398 R
+       esults from the comparisons between the being moved time and infants ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<IBM_vs_PA_D.png, id=350, 2385.8736pt x 695.7192pt>
+File: IBM_vs_PA_D.png Graphic file (type png)
+ <use IBM_vs_PA_D.png>
+Package pdftex.def Info: IBM_vs_PA_D.png used on input line 400.
+(pdftex.def)             Requested size: 426.78113pt x 184.93796pt.
+
+<IBM_vs_PA_E.png, id=351, 2385.8736pt x 695.7192pt>
+File: IBM_vs_PA_E.png Graphic file (type png)
+ <use IBM_vs_PA_E.png>
+Package pdftex.def Info: IBM_vs_PA_E.png used on input line 406.
+(pdftex.def)             Requested size: 426.78113pt x 184.93796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--410
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--418
+
+ []
+
+[36 <./IBM_vs_PA_C.png (PNG copy)> <./IBM_vs_PA_D.png (PNG copy)>] [37 <./IBM_v
+s_PA_E.png>]
+Overfull \hbox (0.7636pt too wide) in paragraph at lines 450--450
 []\T1/pplx/m/n/5 overall
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 \T1/pplx/m/n/5 sub-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 []\T1/pplx/m/n/5 inside of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 \T1/pplx/m/n/5 a sleep-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 []\T1/pplx/m/n/5 inside of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 \T1/pplx/m/n/5 a sleep-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 []\T1/pplx/m/n/5 inside of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 \T1/pplx/m/n/5 a feed-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 \T1/pplx/m/n/5 or end of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 \T1/pplx/m/n/5 a feed-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 []\T1/pplx/m/n/5 not in or
  []
 
 
-Underfull \hbox (badness 8038) in paragraph at lines 387--387
+Underfull \hbox (badness 8038) in paragraph at lines 450--450
 \T1/pplx/m/n/5 or sleep-ing
  []
 
 
-Overfull \hbox (8.66605pt too wide) in paragraph at lines 385--393
+Overfull \hbox (8.66605pt too wide) in paragraph at lines 448--456
  [][] 
  []
 
-<1moved.png, id=291, 1422.2736pt x 805.0878pt>
+<1moved.png, id=365, 1422.2736pt x 805.0878pt>
 File: 1moved.png Graphic file (type png)
  <use 1moved.png>
-Package pdftex.def Info: 1moved.png used on input line 398.
+Package pdftex.def Info: 1moved.png used on input line 461.
 (pdftex.def)             Requested size: 426.79388pt x 170.70728pt.
- [31]
-<4moved.png, id=298, 2335.0437pt x 1246.6575pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--464
+
+ []
+
+[38] [39] <4moved.png, id=376, 2335.0437pt x 1246.6575pt>
 File: 4moved.png Graphic file (type png)
  <use 4moved.png>
-Package pdftex.def Info: 4moved.png used on input line 403.
+Package pdftex.def Info: 4moved.png used on input line 466.
 (pdftex.def)             Requested size: 426.77437pt x 199.16492pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+ []
 
-<12PA.png, id=299, 1443.9546pt x 810.8694pt>
-File: 12PA.png Graphic file (type png)
- <use 12PA.png>
-Package pdftex.def Info: 12PA.png used on input line 422.
-(pdftex.def)             Requested size: 426.77814pt x 199.16583pt.
- [32 <./1moved.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.476 \multirow{2}{}{}
+                       & \multicolumn{2}{c|}{\textbf{approach C}} & \multico...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.476 \multirow{2}{}{}
+                       & \multicolumn{2}{c|}{\textbf{approach C}} & \multico...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[33 <./4moved.png>] [34 <./12PA.png>] [35] [36]
-Underfull \hbox (badness 1077) in paragraph at lines 483--485
-[]\T1/pplx/m/n/11.25 van Hees VT, Ren-strom F, Wright A, Grad-mark A, Catt M, e
-t al (2011)
+[40 <./1moved.png> <./4moved.png>]
+<12PA.png, id=385, 1443.9546pt x 810.8694pt>
+File: 12PA.png Graphic file (type png)
+ <use 12PA.png>
+Package pdftex.def Info: 12PA.png used on input line 501.
+(pdftex.def)             Requested size: 426.77814pt x 199.16583pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
+
+ []
+
+[42 <./12PA.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 515--518
+
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 483--485
-\T1/pplx/m/n/11.25 Es-ti-ma-tion of Daily En-ergy Ex-pen-di-ture in Preg-nant a
-nd Non-Pregnant
+Underfull \hbox (badness 10000) in paragraph at lines 515--518
+
  []
 
-[37]
+[43] [44]
+Underfull \hbox (badness 1389) in paragraph at lines 555--557
+[]\T1/pplx/m/n/11.25 Zhang S, Mur-ray P, Zillmer R, Es-ton RG, Catt M, Row-land
+s AV (2012)
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 555--557
+\T1/pplx/m/n/11.25 num-ber of axes. \T1/pplx/m/it/11.25 Med Sci Sports Ex-erc.\
+T1/pplx/m/n/11.25 , 2012 Nov ; 44(11):2228-34. doi:
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 571--573
+\T1/pplx/m/it/11.25 J Sport Health Sci\T1/pplx/m/n/11.25 .2010 Mar ; Vol-ume 5,
+ Is-sue 1, Pages 3-13
+ []
+
+
+Overfull \hbox (44.93378pt too wide) in paragraph at lines 574--577
+\T1/pplx/m/it/11.25 Mathematical Ge-ol-ogy\T1/pplx/m/n/11.25 .2003 Aug ; 35: 65
+1. https://doi:10.1023/B:MATG.0000002982.52104.02 
+ []
+
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1121,7 +1395,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.531 \\
+l.589 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1134,7 +1408,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.532 \\
+l.590 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1147,7 +1421,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.533 \\
+l.591 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1160,7 +1434,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.534 \\
+l.592 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1173,7 +1447,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.535 \\
+l.593 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1186,7 +1460,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.536 \\
+l.594 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1199,7 +1473,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.537 \\
+l.595 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1212,7 +1486,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.538 \\
+l.596 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1225,7 +1499,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.539 \Large
+l.597 \Large
             {\textbf{Supplements}}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1235,11 +1509,11 @@ or  <return>  to continue without it.
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=343, 845.1575pt x 597.23125pt>
+<friendly_84P077.pdf, id=419, 845.1575pt x 597.23125pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf>
-Package pdftex.def Info: friendly_84P077.pdf used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf used on input line 601.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
 
 
@@ -1247,220 +1521,220 @@ pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
 File: friendly_84P077.pdf Graphic file (type pdf)
 <use friendly_84P077.pdf>
-Package pdftex.def Info: friendly_84P077.pdf used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf used on input line 601.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
 
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--543
+Underfull \hbox (badness 10000) in paragraph at lines 597--601
 
  []
 
-[38]
+[46]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=354, page=1, 845.1575pt x 597.23125pt>
+<friendly_84P077.pdf, id=430, page=1, 845.1575pt x 597.23125pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 1>
-Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 601.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 1>
-Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 1>
-Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 1>
-Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 1>
-Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page1 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
- [39 <./friendly_84P077.pdf, page is rotated 90 degrees>]
+ [47 <./friendly_84P077.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=360, page=2, 845.1575pt x 597.23125pt>
+<friendly_84P077.pdf, id=436, page=2, 845.1575pt x 597.23125pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 2>
-Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 2>
-Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 2>
-Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page2 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
- [40 <./friendly_84P077.pdf, page is rotated 90 degrees>]
+ [48 <./friendly_84P077.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=366, page=3, 845.1575pt x 597.23125pt>
+<friendly_84P077.pdf, id=442, page=3, 845.1575pt x 597.23125pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 3>
-Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 3>
-Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 3>
-Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page3 used on input line 601.
 (pdftex.def)             Requested size: 614.40643pt x 434.1708pt.
- [41 <./friendly_84P077.pdf, page is rotated 90 degrees>]
+ [49 <./friendly_84P077.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=372, page=4, 597.23125pt x 845.1575pt>
+<friendly_84P077.pdf, id=450, page=4, 597.23125pt x 845.1575pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 4>
-Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 4>
-Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 4>
-Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page4 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
- [42 <./friendly_84P077.pdf>]
+ [50 <./friendly_84P077.pdf>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=378, page=5, 597.23125pt x 845.1575pt>
+<friendly_84P077.pdf, id=456, page=5, 597.23125pt x 845.1575pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 5>
-Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 5>
-Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 5>
-Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page5 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
- [43 <./friendly_84P077.pdf>]
+ [51 <./friendly_84P077.pdf>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=385, page=6, 597.23125pt x 845.1575pt>
+<friendly_84P077.pdf, id=462, page=6, 597.23125pt x 845.1575pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 6>
-Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 6>
-Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 6>
-Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page6 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
- [44 <./friendly_84P077.pdf>]
+ [52 <./friendly_84P077.pdf>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=391, page=7, 597.23125pt x 845.1575pt>
+<friendly_84P077.pdf, id=468, page=7, 597.23125pt x 845.1575pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 7>
-Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 7>
-Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 7>
-Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page7 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
- [45 <./friendly_84P077.pdf>]
+ [53 <./friendly_84P077.pdf>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=397, page=8, 597.23125pt x 845.1575pt>
+<friendly_84P077.pdf, id=474, page=8, 597.23125pt x 845.1575pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 8>
-Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 8>
-Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 8>
-Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page8 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
- [46 <./friendly_84P077.pdf>]
+ [54 <./friendly_84P077.pdf>]
 
 pdfTeX warning: pdflatex (file ./friendly_84P077.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<friendly_84P077.pdf, id=403, page=9, 597.23125pt x 845.1575pt>
+<friendly_84P077.pdf, id=480, page=9, 597.23125pt x 845.1575pt>
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 9>
-Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
  <use friendly_84P077.pdf, page 9>
-Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
 File: friendly_84P077.pdf Graphic file (type pdf)
 
 <use friendly_84P077.pdf, page 9>
-Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 543.
+Package pdftex.def Info: friendly_84P077.pdf, page9 used on input line 601.
 (pdftex.def)             Requested size: 434.1708pt x 614.40643pt.
- [47 <./friendly_84P077.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 544.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 544.
+ [55 <./friendly_84P077.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 602.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 602.
 
 (./BINP25_report2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 544.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 544.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 602.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 602.
 Package rerunfilecheck Info: File `BINP25_report2.out' has not changed.
-(rerunfilecheck)             Checksum: 7A657DB4823F13D07F3475C59255A1ED;859.
+(rerunfilecheck)             Checksum: 66928853F08B68E1030975EDA65F63DE;860.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 544.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 602.
  ) 
 Here is how much of TeX's memory you used:
- 11986 strings out of 495028
- 182798 string characters out of 6181497
- 314383 words of memory out of 5000000
- 14686 multiletter control sequences out of 15000+600000
- 82149 words of font info for 250 fonts, out of 8000000 for 9000
+ 12075 strings out of 495028
+ 185390 string characters out of 6181497
+ 316626 words of memory out of 5000000
+ 14743 multiletter control sequences out of 15000+600000
+ 82025 words of font info for 248 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,18n,46p,2306b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,18n,46p,3549b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
@@ -1470,10 +1744,10 @@ fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on BINP25_report2.pdf (47 pages, 3940943 bytes).
+Output written on BINP25_report2.pdf (55 pages, 5708111 bytes).
 PDF statistics:
- 469 PDF objects out of 1000 (max. 8388607)
- 353 compressed objects within 4 object streams
- 114 named destinations out of 1000 (max. 500000)
- 54590 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 551 PDF objects out of 1000 (max. 8388607)
+ 407 compressed objects within 5 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 54650 words of extra memory for PDF output out of 61914 (max. 10000000)
 
