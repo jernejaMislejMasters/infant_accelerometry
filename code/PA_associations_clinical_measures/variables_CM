@@ -1,0 +1,46 @@
+ID	35P073
+Pregnant	1
+Age_year	35,0
+Weight_kg	75,1
+Height_cm	165
+BMI	27,58
+Hip1	100,5
+Hip2	100,5
+Hip_avg	100,5
+Consent	1
+ID_infant	35PO73B
+DoB	08-07-01
+Sex (1=Female)	0
+M_weight	 
+M_Height	 
+Placenta	
+Cord_blood	Y
+I_weight	3180
+I_height	49
+I_headcirc	36,5
+I_Temp	IU
+Apgar1	9
+Apgar5	10
+Apgar10	10
+Complications	
+Second_visit	2008-12-09
+I_Age_2	23,1
+I_weight_2	7100
+I_height_2	67,2
+I_headcirc_2	44,6
+I_FM_2	1,984
+I_FFM_2	5,1123
+I_FM_proc_2	28
+I_Glu0_2	4,6
+I_Ins0_2	3,7
+I_homocyst_2	11,6
+I_ApoB_2	604
+I_ApoA1_2	1244
+I_ApoB/ApoA1_2	0,486
+I_Chol_2	3,1
+I_TG_2	1,03
+I_HDL_2	0,96
+I_LDL_2	1,6
+I_LDL/HDL_2	1,7
+I_GENEA_2	Y
+
